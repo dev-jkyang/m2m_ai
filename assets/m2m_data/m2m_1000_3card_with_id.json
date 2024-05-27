@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "question": "1. I’m cold. Can you close the window, please?",
+    "yes": "Yes, I can close the window.",
+    "no": "No, I can’t close the window, I’m not cold."
+  },
+  {
+    "id": 2,
+    "question": "2. My brother is afraid of dogs. Are you afraid of dogs?",
+    "yes": "Yes, I’m afraid of dogs.",
+    "no": "No, I’m not afraid of dogs."
+  },
+  {
+    "id": 3,
+    "question": "3. It’s 10:00. Are you running late again?",
+    "yes": "Yes, I’m running late again.",
+    "no": "No, I’m not running late again."
+  },
+  {
+    "id": 4,
+    "question": "4. Tom isn’t interested in politics. Is he interested in Music?",
+    "yes": "Yes, he’s interested in music.",
+    "no": "No, he isn’ t interested in music."
+  },
+  {
+    "id": 5,
+    "question": "5. Am I late?",
+    "yes": "Yes, you’re late.",
+    "no": "No, you’re not late."
+  },
+  {
+    "id": 6,
+    "question": "6. Your shoes are nice. Are they new?",
+    "yes": "Yes, they’re new.",
+    "no": "No, they aren’t new."
+  },
+  {
+    "id": 7,
+    "question": "7. This hotel isn’t very good. Is it expensive?",
+    "yes": "Yes, it’s expensive.",
+    "no": "No, it isn’t expensive."
+  },
+  {
+    "id": 8,
+    "question": "8. What’s your phone number?",
+    "yes": "My phone number is … (ex. My phone number is 010-5636- XXXX)",
+    "no": ""
+  },
+  {
+    "id": 9,
+    "question": "9. I’m listening to you, are you listening to me?",
+    "yes": "Yes, I’m listening to you.",
+    "no": "No , I’m not listening to you."
+  },
+  {
+    "id": 10,
+    "question": "10. I’m working. Are you working?",
+    "yes": "Yes, I’m working.",
+    "no": "No, I’m not working."
+  },
+  {
+    "id": 11,
+    "question": "11. Is she wearing a brown coat?",
+    "yes": "Yes, She’s wearing a brown coat.",
+    "no": "No, She isn’t wearing a brown coat."
+  },
+  {
+    "id": 12,
+    "question": "12. We’re having dinner now. Are you having dinner now?",
+    "yes": "Yes, I’m having dinner now.",
+    "no": "No, I’m not having dinner now."
+  },
+  {
+    "id": 13,
+    "question": "13. Why are you wearing a coat? Is it cold?",
+    "yes": "Yes, it is cold.",
+    "no": "No, it isn’t cold."
+  },
+  {
+    "id": 14,
+    "question": "14. Who are you waiting for? Are you waiting for Mr. Ripley?",
+    "yes": "Yes, I’m waiting for Mr. ripley.",
+    "no": "No, I’m not waiting for Mr. ripley."
+  },
+  {
+    "id": 15,
+    "question": "15. Are you leaving now?",
+    "yes": "Yes, I’m leaving now.",
+    "no": "No, I’m not leaving now."
+  },
+  {
+    "id": 16,
+    "question": "16. Are your friends staying at a hotel?",
+    "yes": "Yes, my friends are staying at a hotel.",
+    "no": "No, my friends aren’t staying at a hotel."
+  },
+  {
+    "id": 17,
+    "question": "17. I work in an office. Does your brother work in a bank?",
+    "yes": "Yes, my brother works in a bank.",
+    "no": "No, my brother doesn’t work in a bank."
+  },
+  {
+    "id": 18,
+    "question": "18. Do your parents live in Seoul?",
+    "yes": "Yes, my parents live in Seoul.",
+    "no": "No, my parents don’t live in Seoul."
+  },
+  {
+    "id": 19,
+    "question": "19. Does it rain a lot in winter?",
+    "yes": "Yes, it rains a lot in winter.",
+    "no": "No, it doesn’ t rain much in winter."
+  },
+  {
+    "id": 20,
+    "question": "20. Does it cost a lot of money to build a hospital?",
+    "yes": "Yes, it costs a lot of money to build a hospital.",
+    "no": "No, it doesn’t cost a lot of money to build a hospital."
+  },
+  {
+    "id": 21,
+    "question": "21. Sue drinks tea. Does she drink coffee?",
+    "yes": "Yes, she drinks coffee.",
+    "no": "No, she doesn’t drink coffee."
+  },
+  {
+    "id": 22,
+    "question": "22. Does it rain very often in Busan?",
+    "yes": "Yes, it rains very often in Busan.",
+    "no": "No, it doesn’t rain very often in Busan."
+  },
+  {
+    "id": 23,
+    "question": "23. Does an earthquake happen very often?",
+    "yes": "Yes, an earthquake happens very often.",
+    "no": "No, an earthquake doesn’t happen very often."
+  },
+  {
+    "id": 24,
+    "question": "24. Does your friend do his job very well?",
+    "yes": "Yes, my friend does his job very well.",
+    "no": "No, my friend doesn’t do his job very well."
+  },
+  {
+    "id": 25,
+    "question": "25. Do you play tennis?",
+    "yes": "Yes, I play tennis.",
+    "no": "No, I don’t play tennis."
+  },
+  {
+    "id": 26,
+    "question": "26. Do your parents speak English?",
+    "yes": "Yes, my parents speak English.",
+    "no": "No, my parents don’t speak English."
+  },
+  {
+    "id": 27,
+    "question": "27. Does Gray work hard?",
+    "yes": "Yes, Gray works hard.",
+    "no": "No, Gray doesn’t work hard."
+  },
+  {
+    "id": 28,
+    "question": "28. Does your sister live in Vancouver?",
+    "yes": "Yes, my sister lives in Vancouver.",
+    "no": "No, my sister doesn’t live in Vancouver."
+  },
+  {
+    "id": 29,
+    "question": "29. Why are you under the table?",
+    "yes": "I'm under the table because … (ex. I'm under the table because there is an earthquake.)",
+    "no": "I'm not under the table."
+  },
+  {
+    "id": 30,
+    "question": "30. I want to go home, Do you want to go home?",
+    "yes": "Yes, I want to go home.",
+    "no": "No, I don’t want to go home."
+  },
+  {
+    "id": 31,
+    "question": "31. I don’t understand, Do you understand?",
+    "yes": "Yes, I understand.",
+    "no": "No, I don’t understand."
+  },
+  {
+    "id": 32,
+    "question": "32. Do you know that girl?",
+    "yes": "Yes, I know her.",
+    "no": "No, I don’t know her."
+  },
+  {
+    "id": 33,
+    "question": "33. Do you have blue eyes?",
+    "yes": "Yes, I have blue eyes.",
+    "no": "No, I don’t have blue eyes."
+  },
+  {
+    "id": 34,
+    "question": "34. Has your car got four doors?",
+    "yes": "Yes, my car has got four doors.",
+    "no": "No, my car hasn't got four doors."
+  },
+  {
+    "id": 35,
+    "question": "35. It’s a nice house, Does it have a garage?",
+    "yes": "Yes, it has a garage.",
+    "no": "No, It doesn’t have a garage."
+  },
+  {
+    "id": 36,
+    "question": "36. What kind of car does your father have?",
+    "yes": "My father has a … ex. My father has a sports car)",
+    "no": ""
+  },
+  {
+    "id": 37,
+    "question": "37. What have you got in your bag?",
+    "yes": "I’ve got ... in my bag. (ex. I've got my phone and my wallet in my bag.)",
+    "no": ""
+  },
+  {
+    "id": 38,
+    "question": "38. Where were you yesterday?",
+    "yes": "I was ... yesterday. (ex. I was home yesterday)",
+    "no": ""
+  },
+  {
+    "id": 39,
+    "question": "39. Were your friends here last Sunday?",
+    "yes": "Yes, my friends were here last Sunday.",
+    "no": "No, my friends weren’t here last Sunday."
+  },
+  {
+    "id": 40,
+    "question": "40. Were you hungry before the class?",
+    "yes": "Yes, I was hungry before the class.",
+    "no": "No, I wasn’t hungry before the class."
+  },
+  {
+    "id": 41,
+    "question": "41. Was the weather nice when you were on vacation?",
+    "yes": "Yes, the weather was nice when I was on vacation.",
+    "no": "No, the weather wasn’t nice when I was on vacation."
+  },
+  {
+    "id": 42,
+    "question": "42. Did you brush your teeth every day during vacation?",
+    "yes": "Yes, I brushed my teeth every day during vacation.",
+    "no": "No, I didn’t brush my teeth every day during vacation."
+  },
+  {
+    "id": 43,
+    "question": "43. Did you work in a bank?",
+    "yes": "Yes, I worked in a bank.",
+    "no": "No, I didn’t work in a bank."
+  },
+  {
+    "id": 44,
+    "question": "44. Did it rain all morning yesterday?",
+    "yes": "Yes, it rained all morning yesterday.",
+    "no": "No, It didn’t rain all morning yesterday."
+  },
+  {
+    "id": 45,
+    "question": "45. Did you go to the movies last week?",
+    "yes": "Yes, I went to the movies last week.",
+    "no": "No, I didn’t go to the movies last week."
+  },
+  {
+    "id": 46,
+    "question": "46. Did you take off your jacket when you got home?",
+    "yes": "Yes, I took off my jacket when I got home.",
+    "no": "No, I didn’t take off my jacket when I got home."
+  },
+  {
+    "id": 47,
+    "question": "47. Did you go out last night?",
+    "yes": "Yes, I went out last night.",
+    "no": "No, I didn’t go out last night."
+  },
+  {
+    "id": 48,
+    "question": "48. Did your parents have a good trip?",
+    "yes": "Yes, my parents had a good trip.",
+    "no": "No, my parents didn’t have a good trip."
+  },
+  {
+    "id": 49,
+    "question": "49. Did we enjoy the film?",
+    "yes": "Yes, we enjoyed the film.",
+    "no": "No, we didn’t enjoy the film."
+  },
+  {
+    "id": 50,
+    "question": "50. Did it rain on Sunday?",
+    "yes": "Yes, it rained on Sunday.",
+    "no": "No, it didn’t rain on Sunday."
+  },
+  {
+    "id": 51,
+    "question": "51. What did he say?",
+    "yes": "I don't know what he said.",
+    "no": "He said that … (ex. He said that he loved me.)"
+  },
+  {
+    "id": 52,
+    "question": "52. Was it raining?",
+    "yes": "Yes, it was raining.",
+    "no": "No, it wasn’t raining."
+  },
+  {
+    "id": 53,
+    "question": "53. Were you living in Japan in 2002?",
+    "yes": "Yes, I was living in Japan in 2002.",
+    "no": "No, I wasn't living in Japan in 2002."
+  },
+  {
+    "id": 54,
+    "question": "54. Was the sun shining and were the birds singing?",
+    "yes": "Yes, the sun was shining and the birds were singing.",
+    "no": "No, the sun wasn't shining and the birds weren't singing"
+  },
+  {
+    "id": 55,
+    "question": "55. Were you watching television when I called you?",
+    "yes": "Yes, I was watching television when you called me.",
+    "no": "No, I wasn’t watching television when you called me."
+  },
+  {
+    "id": 56,
+    "question": "56. Did it rain while we were on vacation?",
+    "yes": "Yes, it rained while we were on vacation.",
+    "no": "No, it didn’t rain while we were on vacation."
+  },
+  {
+    "id": 57,
+    "question": "57. Was it raining when you got up?",
+    "yes": "Yes, it was raining when I got up.",
+    "no": "No, it wasn’t raining when I got up."
+  },
+  {
+    "id": 58,
+    "question": "58. Did Emma fall asleep while she was reading?",
+    "yes": "Yes, Emma fell asleep while she was reading.",
+    "no": "No, Emma didn't fall asleep while she was reading."
+  },
+  {
+    "id": 59,
+    "question": "59. Did you use to read a lot of books?",
+    "yes": "Yes, I used to read a lot of books.",
+    "no": "No, I didn’t use to read a lot of books."
+  },
+  {
+    "id": 60,
+    "question": "60. Did you use to have short hair?",
+    "yes": "Yes, I used to have short hair.",
+    "no": "No, I didn’t use to have short hair."
+  },
+  {
+    "id": 61,
+    "question": "61. Did you use to like tomatoes?",
+    "yes": "Yes, I used to like tomatoes.",
+    "no": "No, I didn’ t use to like tomatoes."
+  },
+  {
+    "id": 62,
+    "question": "62. Where did you use to live before you came here?",
+    "yes": "I used to live ... before I came here. (ex. I used to live in Uijeongbu before I came here.)",
+    "no": ""
+  },
+  {
+    "id": 63,
+    "question": "63. Has your mother ever had different jobs?",
+    "yes": "Yes, my mother has had different jobs.",
+    "no": "No, my mother hasn’t had different jobs."
+  },
+  {
+    "id": 64,
+    "question": "64. How many times has Brazil won the World Cup?",
+    "yes": "Brazil has won the World Cup ... times. (ex. Brazil has won the World Cup 15 times.)",
+    "no": "I don’t know how many times Brazil has won the World Cup."
+  },
+  {
+    "id": 65,
+    "question": "65. Has your brother or sister ever traveled by plane?",
+    "yes": "Yes, my brother or sister has traveled by plane.",
+    "no": "No, my brother or sister hasn’t traveled by plane."
+  },
+  {
+    "id": 66,
+    "question": "66. Have you ever ridden a horse?",
+    "yes": "Yes, I’ve ridden a horse.",
+    "no": "No I haven’t ridden a horse."
+  },
+  {
+    "id": 67,
+    "question": "67. How long have your parents been married?",
+    "yes": "My parents have been married for ... years. (ex. My parents have been married for 40 years.)",
+    "no": "I don’t know how long my parents have been married."
+  },
+  {
+    "id": 68,
+    "question": "68. How long have you lived in Korea?",
+    "yes": "I’ve lived in Korea for … (ex. I've lived in Korea for 20 years.)",
+    "no": ""
+  },
+  {
+    "id": 69,
+    "question": "69. How long has it been since we studied last time?",
+    "yes": "It’s been ... since we studied last time. (ex. It's been 2 weeks since we studied last time.)",
+    "no": ""
+  },
+  {
+    "id": 70,
+    "question": "70. How long has it been raining?",
+    "yes": "It’s been raining for … (ex. It's been raining for 10 days.)",
+    "no": ""
+  },
+  {
+    "id": 71,
+    "question": "71. How long has she been in her country?",
+    "yes": "She's been in her country for … (ex. She's been in her country for 5 years)",
+    "no": ""
+  },
+  {
+    "id": 72,
+    "question": "72. How long have you been in your country?",
+    "yes": "I’ve been in my country since … (ex. I've been in my country since 2012.)",
+    "no": ""
+  },
+  {
+    "id": 73,
+    "question": "73. How long have you been waiting for this class?",
+    "yes": "I’ve been waiting for this class since … (ex. I've been waiting for this class since last week.)",
+    "no": ""
+  },
+  {
+    "id": 74,
+    "question": "74. Did Susan start her new job three weeks ago?",
+    "yes": "Yes, Susan started her new job three weeks ago.",
+    "no": "No, Susan didn't start her new job three weeks ago."
+  },
+  {
+    "id": 75,
+    "question": "75. Have you lost your passport?",
+    "yes": "Yes, I’ve lost my passport.",
+    "no": "No, I haven’t lost my passport."
+  },
+  {
+    "id": 76,
+    "question": "76. Has your mother gone to bed?",
+    "yes": "Yes, my mother has gone to bed.",
+    "no": "No, my mother hasn’t gone to bed."
+  },
+  {
+    "id": 77,
+    "question": "77. Is your father there?",
+    "yes": "Yes, my father is there.",
+    "no": "No, my father isn’t there."
+  },
+  {
+    "id": 78,
+    "question": "78. Have you lost your keys?",
+    "yes": "Yes, I’ve lost my keys.",
+    "no": "No, I haven’t lost my keys."
+  },
+  {
+    "id": 79,
+    "question": "79. Are Diane and Paul here?",
+    "yes": "Yes, they are here.",
+    "no": "No, they aren't here."
+  },
+  {
+    "id": 80,
+    "question": "80. What time are Diane and Paul coming?",
+    "yes": "Diane and Paul are coming at … (ex. Diane and Paul are coming at 7.)",
+    "no": ""
+  },
+  {
+    "id": 81,
+    "question": "81. Have Diane and Paul arrived?",
+    "yes": "Yes, they have already arrived.",
+    "no": "No, they haven't arrived yet."
+  },
+  {
+    "id": 82,
+    "question": "82. Did Diane and Paul arrive yet?",
+    "yes": "Yes, they already arrived.",
+    "no": "No, they didn't arrive yet."
+  },
+  {
+    "id": 83,
+    "question": "83. Didn't we take a vacation last year?",
+    "yes": "Yes, we took a vacation last year.",
+    "no": "No, we didn't take a vacation last year."
+  },
+  {
+    "id": 84,
+    "question": "84. Did William Shakespeare live from 1564 to 1616?",
+    "yes": "Yes, William Shakespeare lived from 1564 to 1616.",
+    "no": "No, William Shakespeare didn't live from 1564 to 1616."
+  },
+  {
+    "id": 85,
+    "question": "85. What time did you go out?",
+    "yes": "I went out at … (ex. I went out at 4.)",
+    "no": ""
+  },
+  {
+    "id": 86,
+    "question": "86. Have you ever been to Spain?",
+    "yes": "Yes, I’ve been to Spain.",
+    "no": "No, I haven’t been to Spain."
+  },
+  {
+    "id": 87,
+    "question": "87. Are oranges imported into Korea?",
+    "yes": "Yes, oranges are imported into Korea.",
+    "no": "No, oranges aren’t imported into Korea"
+  },
+  {
+    "id": 88,
+    "question": "88. Are you invited to the party?",
+    "yes": "Yes, I’m invited to the party.",
+    "no": "No, I’m not invited to the party."
+  },
+  {
+    "id": 89,
+    "question": "89. When was the telephone invented?",
+    "yes": "The telephone was invented in ... (ex. The telephone was invented in 1880.)",
+    "no": "I don’t know when The telephone was invented."
+  },
+  {
+    "id": 90,
+    "question": "90. When were you born?",
+    "yes": "I was born in … (ex. I was born in 1974.)",
+    "no": ""
+  },
+  {
+    "id": 91,
+    "question": "91. Is your car being repaired now?",
+    "yes": "Yes, my car is being repaired now.",
+    "no": "No, my car isn't being repaired now."
+  },
+  {
+    "id": 92,
+    "question": "92. Are any new houses being built across from the park?",
+    "yes": "Yes, some new houses are being built across from the park.",
+    "no": "No, no new houses are being built across from the park."
+  },
+  {
+    "id": 93,
+    "question": "93. Has your shirt been washed?",
+    "yes": "Yes, my shirt has been washed.",
+    "no": "No, my shirt hasn’t been washed."
+  },
+  {
+    "id": 94,
+    "question": "94. The room isn’t dirty any more. Has it been  cleaned?",
+    "yes": "Yes, It’s been cleaned.",
+    "no": "No, It hasn’t been cleaned"
+  },
+  {
+    "id": 95,
+    "question": "95. Was it raining?",
+    "yes": "Yes, it was raining.",
+    "no": "No, it wasn’t raining"
+  },
+  {
+    "id": 96,
+    "question": "96. Were your windows broken?",
+    "yes": "Yes, my windows were broken.",
+    "no": "No, my windows weren’t broken."
+  },
+  {
+    "id": 97,
+    "question": "97. Has your brother or sister ridden a horse?",
+    "yes": "Yes, my brother or sister has ridden a horse.",
+    "no": "No, my brother or sister hasn’t ridden a horse."
+  },
+  {
+    "id": 98,
+    "question": "98. Did you go out very often when you were in high school?",
+    "yes": "Yes, I went out very often when I was in high school.",
+    "no": "No, I didn’t go out very often when I was in high school."
+  },
+  {
+    "id": 99,
+    "question": "99. Did you bake a cake yesterday?",
+    "yes": "Yes, I baked a cake yesterday.",
+    "no": "No, I didn’t bake a cake yesterday."
+  },
+  {
+    "id": 100,
+    "question": "100. Have you made any coffee?",
+    "yes": "Yes, I've made some coffee.",
+    "no": "No, I haven't made any coffee."
+  },
+  {
+    "id": 101,
+    "question": "101. Did anyone break the windows last night?",
+    "yes": "Yes, someone broke the windows last night.",
+    "no": "No, no one broke the windows last night."
+  },
+  {
+    "id": 102,
+    "question": "102. Has anybody broken this window?",
+    "yes": "Yes, somebody has broken this window.",
+    "no": "No, nobody has broken this window."
+  },
+  {
+    "id": 103,
+    "question": "103. Is Emma playing the guitar tomorrow?",
+    "yes": "Yes, Emma is playing the guitar tomorrow.",
+    "no": "No, Emma isn't playing the guitar tomorrow."
+  },
+  {
+    "id": 104,
+    "question": "104. Are your parents going to the dentist this\nweekend?",
+    "yes": "Yes, my parents are going to the dentist this weekend.",
+    "no": "No, my parents aren’t going to the dentist this weekend."
+  },
+  {
+    "id": 105,
+    "question": "105. Are you coming to the party next week?",
+    "yes": "Yes, I’m coming to the party next week.",
+    "no": "No, I’m not coming to the party next week."
+  },
+  {
+    "id": 106,
+    "question": "106. Does the subway in Korea arrive on time?",
+    "yes": "Yes, the subway in Korea arrives on time.",
+    "no": "No, the subway in Korea doesn’t arrive on time."
+  },
+  {
+    "id": 107,
+    "question": "107. Are you going to have breakfast?",
+    "yes": "Yes, I’m going to have breakfast.",
+    "no": "No, I’m not going to have breakfast."
+  },
+  {
+    "id": 108,
+    "question": "108. Are you going to invite me to your party?",
+    "yes": "Yes, I'm going to invite you to my party.",
+    "no": "No , I'm not going to invite you to my party"
+  },
+  {
+    "id": 109,
+    "question": "109. Are you playing tennis tomorrow?",
+    "yes": "Yes, I’m playing tennis tomorrow.",
+    "no": "No, I’ m not playing tennis tomorrow."
+  },
+  {
+    "id": 110,
+    "question": "110. Is it going to rain?",
+    "yes": "Yes, it is going to rain.",
+    "no": "No, It isn’t going to rain"
+  },
+  {
+    "id": 111,
+    "question": "111. Will you call me tonight?",
+    "yes": "Yes, I’ll call you tonight.",
+    "no": "No, I won’t call you tonight."
+  },
+  {
+    "id": 112,
+    "question": "112. Will the birds eat old bread?",
+    "yes": "Yes, the birds will eat old bread.",
+    "no": "No, the birds won’t eat old bread."
+  },
+  {
+    "id": 113,
+    "question": "113. Do you think your friend will pass the driving test?",
+    "yes": "Yes, I think my friend will pass the driving test.",
+    "no": "No, I don’t think my friend will pass the driving test."
+  },
+  {
+    "id": 114,
+    "question": "114. Are you going to take an English test soon?",
+    "yes": "Yes, I’m going to take an English test soon.",
+    "no": "No, I'm not going to take an English test soon."
+  },
+  {
+    "id": 115,
+    "question": "115. My suitcase is very heavy. Will you carry it for me?",
+    "yes": "Yes, I’ll carry it for you.",
+    "no": "No, I won’t carry it for you."
+  },
+  {
+    "id": 116,
+    "question": "116. Don’t you think you should go to bed?",
+    "yes": "Yes, I think I should go to bed.",
+    "no": "No, I don’t think I should go to bed."
+  },
+  {
+    "id": 117,
+    "question": "117. What will you have for dinner?",
+    "yes": "I’ll have ... for dinner. (ex. I'll have sushi for dinner.)",
+    "no": ""
+  },
+  {
+    "id": 118,
+    "question": "118. Should I call you now?",
+    "yes": "Yes, You should call me now.",
+    "no": "No, You shouldn’t call me now."
+  },
+  {
+    "id": 119,
+    "question": "119. Do you think I might be lucky?",
+    "yes": "Yes, I think you might be lucky.",
+    "no": "No, I don’t think you might be lucky."
+  },
+  {
+    "id": 120,
+    "question": "120. Might you play tennis tomorrow?",
+    "yes": "Yes, I might play tennis tomorrow.",
+    "no": "No, I might not play tennis tomorrow."
+  },
+  {
+    "id": 121,
+    "question": "121. Might Sue come to the party?",
+    "yes": "Yes, Sue might come to the party.",
+    "no": "No, Sue might not come to the party."
+  },
+  {
+    "id": 122,
+    "question": "122. May I go to the movies tonight?",
+    "yes": "Yes, you may go to the movies tonight.",
+    "no": "No, you may not go to the movies tonight."
+  },
+  {
+    "id": 123,
+    "question": "123. Can you change a 50,000 won bill?",
+    "yes": "Yes, I can change a 50,000 won bill.",
+    "no": "No, I can’t change a 50,000 won bill."
+  },
+  {
+    "id": 124,
+    "question": "124. I’m having a party next week. Can you come to the party?",
+    "yes": "Yes, I can come to the party.",
+    "no": "No, I can't come to the party."
+  },
+  {
+    "id": 125,
+    "question": "125. Could your brother or sister understand much English?",
+    "yes": "Yes, my brother or sister could understand English a lot.",
+    "no": "No, my brother or sister couldn’t understand English much."
+  },
+  {
+    "id": 126,
+    "question": "126. Can you sleep when you’re tired?",
+    "yes": "Yes, I can sleep when I’m tired.",
+    "no": "No, I can’t sleep when I’m tired."
+  },
+  {
+    "id": 127,
+    "question": "127. Do you think you must live near Seoul?",
+    "yes": "Yes, I think I must live near Seoul.",
+    "no": "No, I don’t think I must live near Seoul."
+  },
+  {
+    "id": 128,
+    "question": "128. Must he be tired?",
+    "yes": "Yes, he must be tired.",
+    "no": "No, he must not be tired."
+  },
+  {
+    "id": 129,
+    "question": "129. Do you think we must be careful with this knife because it’s very sharp?",
+    "yes": "Yes, I think we must be careful with this knife because it’s very sharp.",
+    "no": "No, I don’t think we must be careful with this knife."
+  },
+  {
+    "id": 130,
+    "question": "130. Do you think bicyclists must not ride on the sidewalk?",
+    "yes": "Yes, I think bicyclists must not ride on the sidewalk.",
+    "no": "No, I don’t think Bicyclists must not ride on the sidewalk."
+  },
+  {
+    "id": 131,
+    "question": "131. Do you think you should study harder?",
+    "yes": "Yes, I think I should study harder.",
+    "no": "No , I don’t think I should study harder."
+  },
+  {
+    "id": 132,
+    "question": "132. Should I invite Ripley to dinner?",
+    "yes": "Yes , you should invite Ripley to dinner.",
+    "no": "No, you shouldn’t invite Ripley to dinner."
+  },
+  {
+    "id": 133,
+    "question": "133. Should Emma go to bed so late?",
+    "yes": "Yes, Emma should go to bed so late.",
+    "no": "No, Emma shouldn't go to bed so late."
+  },
+  {
+    "id": 134,
+    "question": "134. Do you think Lisa should buy new shoes?",
+    "yes": "Yes, I think Lisa should buy new shoes.",
+    "no": "No, I don’t think Lisa should buy new shoes."
+  },
+  {
+    "id": 135,
+    "question": "135. Do you have to go to the dentist?",
+    "yes": "Yes, I have to go to the dentist.",
+    "no": "No, I don’t have to go to the dentist."
+  },
+  {
+    "id": 136,
+    "question": "136. Does your brother or sister have to work very hard?",
+    "yes": "Yes, my brother or sister has to work very hard.",
+    "no": "No, my brother or sister doesn’t have to work very hard."
+  },
+  {
+    "id": 137,
+    "question": "137. Did you think we didn’t have to wait very long for the bus?",
+    "yes": "Yes, I thought we didn’t have to wait very long for the bus.",
+    "no": "No, I didn’t think we didn’t have to wait very long for the bus."
+  },
+  {
+    "id": 138,
+    "question": "138. Do men have to do military service in your country?",
+    "yes": "Yes, men have to do military service in my country.",
+    "no": "No, men don’t have to do military service in my country."
+  },
+  {
+    "id": 139,
+    "question": "139. Would you like to go to the movies tonight?",
+    "yes": "Yes, I’d like to go to the movies tonight.",
+    "no": "No, I wouldn’t like to go to the movies tonight."
+  },
+  {
+    "id": 140,
+    "question": "140. What would you like to do tonight?",
+    "yes": "I’d like to ... Tonight. (ex. I'd like to play chess tonight.)",
+    "no": ""
+  },
+  {
+    "id": 141,
+    "question": "141. Do you like to go to the movies?",
+    "yes": "Yes, I like to go to the movies.",
+    "no": "No, I don’t like to go to the movies."
+  },
+  {
+    "id": 142,
+    "question": "142. What do you like to do on weekends?",
+    "yes": "I like to ... on weekends. (ex. I like to sleep on weekends)",
+    "no": ""
+  },
+  {
+    "id": 143,
+    "question": "143. Would you rather sit on the floor?",
+    "yes": "Yes, I’d rather sit on the floor.",
+    "no": "No, I would rather not sit on the floor."
+  },
+  {
+    "id": 144,
+    "question": "144. Would you rather have milk or juice",
+    "yes": "I'd rather have milk than juice.",
+    "no": "I'd rather have juice than milk."
+  },
+  {
+    "id": 145,
+    "question": "145. Would you rather go out tonight?",
+    "yes": "Yes, I’d rather go out tonight.",
+    "no": "No, I’d rather not go out tonight."
+  },
+  {
+    "id": 146,
+    "question": "146. Do you think I’d rather go out than stay home?",
+    "yes": "Yes I think you’d rather go out than stay home.",
+    "no": "No, I don’t think you’d rather go out than stay home."
+  },
+  {
+    "id": 147,
+    "question": "147. Do you want to talk to me?",
+    "yes": "Yes, I want to talk to you.",
+    "no": "No, I don't want to talk to you."
+  },
+  {
+    "id": 148,
+    "question": "148. Were you carefully using this knife?",
+    "yes": "Yes, I was carefully using this knife.",
+    "no": "No, I wasn't carefully using this knife."
+  },
+  {
+    "id": 149,
+    "question": "149. Do you want to have fish for dinner tonight?",
+    "yes": "Yes, I want to have fish for dinner tonight.",
+    "no": "No, I don’t want to have fish for dinner tonight."
+  },
+  {
+    "id": 150,
+    "question": "150. Are you tired of arguing with your wife?",
+    "yes": "Yes, I'm tired of arguing with my wife.",
+    "no": "No, I'm not tired of arguing with my wife."
+  },
+  {
+    "id": 151,
+    "question": "151. Is there a man on the roof?",
+    "yes": "Yes, There’s a man on the roof.",
+    "no": "No, There isn’t a man on the roof."
+  },
+  {
+    "id": 152,
+    "question": "152. Is there a train at 10:30?",
+    "yes": "Yes, There’s a train at 10:30.",
+    "no": "No, There isn’t a train at 10:30."
+  },
+  {
+    "id": 153,
+    "question": "153. Are there seven days in a week?",
+    "yes": "Yes, There are seven days in a week.",
+    "no": "No, there aren’t seven days in a week."
+  },
+  {
+    "id": 154,
+    "question": "154. Is there nothing on TV tonight?",
+    "yes": "Yes, There is nothing on TV tonight.",
+    "no": "No, There isn't nothing on TV tonight."
+  },
+  {
+    "id": 155,
+    "question": "155. Is there a good nature program on TV tonight?",
+    "yes": "Yes, there is a good nature program on TV tonight.",
+    "no": "No, there isn’t a good nature program on TV tonight."
+  },
+  {
+    "id": 156,
+    "question": "156. Were there any phone messages for me this morning?",
+    "yes": "Yes, there were some phone messages for you this morning.",
+    "no": "No, there weren't any phone messages for you this morning."
+  },
+  {
+    "id": 157,
+    "question": "157. Was there an accident last night?",
+    "yes": "Yes, There was an accident last night.",
+    "no": "No, there wasn’t an accident last night."
+  },
+  {
+    "id": 158,
+    "question": "158. Isn’t there anything to eat?",
+    "yes": "Yes, there is something to eat.",
+    "no": "No, there isn’t anything to eat."
+  },
+  {
+    "id": 159,
+    "question": "159. What time is it?",
+    "yes": "It is … (ex. It is half past 10.)",
+    "no": ""
+  },
+  {
+    "id": 160,
+    "question": "160. Is it half past 10?",
+    "yes": "Yes, It's half past 10.",
+    "no": "No it isn't half past 10."
+  },
+  {
+    "id": 161,
+    "question": "161. Is Seoul station far?",
+    "yes": "Yes, Seoul station is far.",
+    "no": "No, Seoul station isn't far."
+  },
+  {
+    "id": 162,
+    "question": "162. Is it true that you’re moving to Busan?",
+    "yes": "Yes, it is true that I’m moving to Busan.",
+    "no": "No, it isn’t true that I’m moving to Busan."
+  },
+  {
+    "id": 163,
+    "question": "163. Are you tired?",
+    "yes": "Yes, I'm tired.",
+    "no": "No, I'm not tired."
+  },
+  {
+    "id": 164,
+    "question": "164. Has your sister seen the movie?",
+    "yes": "Yes, my sister has seen the movie.",
+    "no": "No, my sister hasn't seen the movie."
+  },
+  {
+    "id": 165,
+    "question": "165. Do you like hot water?",
+    "yes": "Yes, I like hot water.",
+    "no": "No, I don’t like hot water."
+  },
+  {
+    "id": 166,
+    "question": "166. Did you have a good time last night?",
+    "yes": "Yes, I had a good time last night.",
+    "no": "No, I didn’t have a good time last night."
+  },
+  {
+    "id": 167,
+    "question": "167. You were late to work, weren’t you?",
+    "yes": "Yes, I was late to work.",
+    "no": "No, I wasn’t late to work."
+  },
+  {
+    "id": 168,
+    "question": "168. Tim doesn’t eat meat, does he?",
+    "yes": "Yes, Tim eats meat.",
+    "no": "No, Tim doesn’t eat meats."
+  },
+  {
+    "id": 169,
+    "question": "169. It is a nice day, isn’t it?",
+    "yes": "Yes, It is a nice day.",
+    "no": "No, It isn’t a nice day."
+  },
+  {
+    "id": 170,
+    "question": "170. Sally lives in Portland, doesn't she?",
+    "yes": "Yes, Sally lives in Portland.",
+    "no": "No, Sally doesn't live in Portland."
+  },
+  {
+    "id": 171,
+    "question": "171. Ripley doesn’t watch TV. Do you watch TV a lot?",
+    "yes": "Yes, I watch TV a lot.",
+    "no": "No, I don’t watch TV much."
+  },
+  {
+    "id": 172,
+    "question": "172. I’ll work tomorrow. Will you work tomorrow?",
+    "yes": "Yes, I'll work tomorrow.",
+    "no": "No, I won’t work tomorrow."
+  },
+  {
+    "id": 173,
+    "question": "173. I went to the movies last night. Did you go to the movies?",
+    "yes": "Yes, I went to the movies last night.",
+    "no": "No, I didn’t go to the movies last night."
+  },
+  {
+    "id": 174,
+    "question": "174. Will you be home tomorrow?",
+    "yes": "Yes, I will be home tomorrow.",
+    "no": "No, I won’t be home tomorrow."
+  },
+  {
+    "id": 175,
+    "question": "175. Would you like to be the president of Korea?",
+    "yes": "Yes, I’d like to be the president of Korea.",
+    "no": "No, I wouldn’t like to be the president of Korea."
+  },
+  {
+    "id": 176,
+    "question": "176. Must they have a car?",
+    "yes": "Yes, they must have a car.",
+    "no": "No, they must not have a car."
+  },
+  {
+    "id": 177,
+    "question": "177. Does Sue do a lot on weekends?",
+    "yes": "Yes, Sue does a lot on weekends.",
+    "no": "No, Sue doesn't do a lot on weekends."
+  },
+  {
+    "id": 178,
+    "question": "178. Have you been to Japan?",
+    "yes": "Yes, I’ve been to Japan.",
+    "no": "No, I haven’t been to Japan."
+  },
+  {
+    "id": 179,
+    "question": "179. How did you study English?",
+    "yes": "I studied English by … (ex. I studied English by reading books.)",
+    "no": ""
+  },
+  {
+    "id": 180,
+    "question": "180. What time can Paula come to the meeting tomorrow?",
+    "yes": "Paula can come to the meeting tomorrow at … (ex. Paula can come to the meeting tomorrow at 10.)",
+    "no": "Paula can't come to the meeting tomorrow."
+  },
+  {
+    "id": 181,
+    "question": "181. Why did you call me last night?",
+    "yes": "I called you because … (ex. I called you because I needed your advice.)",
+    "no": ""
+  },
+  {
+    "id": 182,
+    "question": "182. Who lives in your house?",
+    "yes": "... live(s) in my house. (ex. My mother lives in my house.)",
+    "no": ""
+  },
+  {
+    "id": 183,
+    "question": "183. What happened last night?",
+    "yes": "... happened last night. (ex. A car accident happened last night.)",
+    "no": ""
+  },
+  {
+    "id": 184,
+    "question": "184. What did you find on your desk?",
+    "yes": "I found ... on my desk. (ex. I found a key on my desk.)",
+    "no": ""
+  },
+  {
+    "id": 185,
+    "question": "185. Who are you calling?",
+    "yes": "I’m calling to … (ex. I'm calling to ripley.)",
+    "no": ""
+  },
+  {
+    "id": 186,
+    "question": "186. Who do these books belong to?",
+    "yes": "these books belong to … (ex. These books belong to ripley.)",
+    "no": ""
+  },
+  {
+    "id": 187,
+    "question": "187. Which restaurant do you prefer in your\ntown?",
+    "yes": "I prefer ... restaurant in my town. (ex. I prefer Italian restaurant in my town.)",
+    "no": ""
+  },
+  {
+    "id": 188,
+    "question": "188. Did you meet Nicole's Parents yesterday?",
+    "yes": "Yes, I met Nicole's Parents yesterday.",
+    "no": "No, I didn't meet Nicole's Parents yersterday."
+  },
+  {
+    "id": 189,
+    "question": "189. What was the weather like last night?",
+    "yes": "The weather was ... last night. (ex. The weather was bad last night.)",
+    "no": ""
+  },
+  {
+    "id": 190,
+    "question": "190. What nationality is your father?",
+    "yes": "my father's nationality is … (ex. My father's nationality is Korean.)",
+    "no": ""
+  },
+  {
+    "id": 191,
+    "question": "191. Which is bigger – Canada or Australia?",
+    "yes": "Canada is bigger than Australia.",
+    "no": "Australia is bigger than Canada."
+  },
+  {
+    "id": 192,
+    "question": "192. What kind of music do you like?",
+    "yes": "I like ... music. (ex. I like classical music.)",
+    "no": ""
+  },
+  {
+    "id": 193,
+    "question": "193. How do you get to work?",
+    "yes": "I get to work by bus.",
+    "no": ""
+  },
+  {
+    "id": 194,
+    "question": "194. Does it take a long time to learn a language?",
+    "yes": "Yes, it takes a long time to learn a language.",
+    "no": "No, it doesn’t take a long time to learn a language."
+  },
+  {
+    "id": 195,
+    "question": "195. Does it take a long time to make Kimchi?",
+    "yes": "Yes, it takes a long time to make Kimchi.",
+    "no": "No, it doesn’t take a long time to make Kimchi."
+  },
+  {
+    "id": 196,
+    "question": "196. How long will it take me to learn to drive?",
+    "yes": "It'll take you … to learn to drive. (ex. It'll take you a month to learn to drive.)",
+    "no": ""
+  },
+  {
+    "id": 197,
+    "question": "197. Did it take you a long time to find a job?",
+    "yes": "Yes, it took me a long time to find a job.",
+    "no": "No, it didn’t take me a long time to find a job."
+  },
+  {
+    "id": 198,
+    "question": "198. Do you know who the president of Korea is?",
+    "yes": "Yes, I know who the president of Korea is.",
+    "no": "No, I don’t know who the president of Korea is."
+  },
+  {
+    "id": 199,
+    "question": "199. Do you know how much a camera is?",
+    "yes": "Yes, I know how much a camera is.",
+    "no": "No, I don’t know how much a camera is."
+  },
+  {
+    "id": 200,
+    "question": "200. Do you know where I put my keys?",
+    "yes": "Yes, I know where you put your keys.",
+    "no": "No, I don’t know where you put your keys."
+  },
+  {
+    "id": 201,
+    "question": "201. Did you see anybody last night?",
+    "yes": "Yes, I saw somebody last night.",
+    "no": "No, I didn’t see anybody last night."
+  },
+  {
+    "id": 202,
+    "question": "202. Did Diane say that she was enjoying her new job?",
+    "yes": "Yes, Diane said that she was enjoying her new job.",
+    "no": "No, Diane didn't say that she was enjoying her new job."
+  },
+  {
+    "id": 203,
+    "question": "203. Did Peter say that he had to leave early?",
+    "yes": "Yes, Peter said that he had to leave early.",
+    "no": "No, Peter didn't say that he had to leave early."
+  },
+  {
+    "id": 204,
+    "question": "204. Did you tell me that you didn’t like school when you were young?",
+    "yes": "Yes, I told you that I didn’t like school when I was young.",
+    "no": "No, I didn’t tell you that I didn’t like school when I was young."
+  },
+  {
+    "id": 205,
+    "question": "205. What did you tell me?",
+    "yes": "I told you that … (ex. I told you that I love you.)",
+    "no": "I didn’t tell you anything"
+  },
+  {
+    "id": 206,
+    "question": "206. Did your mother say that she was tired last night?",
+    "yes": "Yes, my mother said that she was tired last night.",
+    "no": "No, my mother didn’t say that she was tired last night."
+  },
+  {
+    "id": 207,
+    "question": "207. Can I meet you tomorrow?",
+    "yes": "Yes, you can meet me tomorrow.",
+    "no": "No, you can't meet me tomorrow."
+  },
+  {
+    "id": 208,
+    "question": "208. Does Helen know many people?",
+    "yes": "Yes, Helen knows many people.",
+    "no": "No, Helen doesn't know many people."
+  },
+  {
+    "id": 209,
+    "question": "209. Did you use to work at another company before?",
+    "yes": "Yes, I used to work at another company before.",
+    "no": "No, I didn’t use to work at another company."
+  },
+  {
+    "id": 210,
+    "question": "210. Are you working today?",
+    "yes": "Yes, I'm working today.",
+    "no": "No, I’m not working today."
+  },
+  {
+    "id": 211,
+    "question": "211. Did You forget to turn off the light when you went out this morning?",
+    "yes": "Yes, I forgot to turn off the light when I went out this morning.",
+    "no": "No, I didn’t forget to turn off the light when I went out this morning."
+  },
+  {
+    "id": 212,
+    "question": "212. Did you try to read a book last month?",
+    "yes": "Yes, I tried to read a book last month.",
+    "no": "No, I didn’t try to read a book last month."
+  },
+  {
+    "id": 213,
+    "question": "213. Do you mind getting up early?",
+    "yes": "Yes, I mind getting up early.",
+    "no": "No, I don’t mind getting up early."
+  },
+  {
+    "id": 214,
+    "question": "214. Do you prefer travelling by car?",
+    "yes": "Yes, I prefer travelling by car.",
+    "no": "No, I don’t prefer travelling by car."
+  },
+  {
+    "id": 215,
+    "question": "215. Did you persuade Ripley to come?",
+    "yes": "Yes, I persuaded Ripley to come.",
+    "no": "No, I didn’t persuade Ripley to come."
+  },
+  {
+    "id": 216,
+    "question": "216. Do you want anybody to know your secret?",
+    "yes": "Yes, I want somebody to know my secret.",
+    "no": "No, I don’t want anybody to know my secret."
+  },
+  {
+    "id": 217,
+    "question": "217. Are you teaching your brother to swim?",
+    "yes": "Yes, I'm teaching my brother to swim.",
+    "no": "No, I'm not teaching my brother to swim."
+  },
+  {
+    "id": 218,
+    "question": "218. Does your friend make you laugh?",
+    "yes": "Yes, my friend makes me laugh.",
+    "no": "No, my friend doesn’t make me laugh."
+  },
+  {
+    "id": 219,
+    "question": "219. Are you going out to get some bread?",
+    "yes": "Yes, I’m going out to get some bread.",
+    "no": "No, I’m not going out to get some bread."
+  },
+  {
+    "id": 220,
+    "question": "220. Did you go to the store for some fruit?",
+    "yes": "Yes, I went to the store for some fruit.",
+    "no": "No, I didn’t go to the store for some fruit."
+  },
+  {
+    "id": 221,
+    "question": "221. Are you waiting to talk to the manager?",
+    "yes": "Yes, I'm waiting to talk to the manager.",
+    "no": "No, I'm not waiting to talk to the manager."
+  },
+  {
+    "id": 222,
+    "question": "222. Is he waiting for John to call?",
+    "yes": "Yes, he’s waiting for John to call.",
+    "no": "No, he isn't waiting for John to call"
+  },
+  {
+    "id": 223,
+    "question": "223. What time did you go to bed last night?",
+    "yes": "I went to bed at ... last night. (ex. I went to bed at 11 last night.)",
+    "no": ""
+  },
+  {
+    "id": 224,
+    "question": "224. Do children often go on school trips?",
+    "yes": "Yes, children often go on school trips.",
+    "no": "No, children don’t often go on school trips."
+  },
+  {
+    "id": 225,
+    "question": "225. Have workers at the subway in Korea gone\non strike?",
+    "yes": "Yes, workers at the subway in Korea have gone on strike.",
+    "no": "No, workers at the subway in Korea haven’t gone on strike."
+  },
+  {
+    "id": 226,
+    "question": "226. Do your parents often go sailing?",
+    "yes": "Yes, my parents often go sailing.",
+    "no": "No, my parents don’t often go sailing."
+  },
+  {
+    "id": 227,
+    "question": "227. Do you hope she gets better soon?",
+    "yes": "Yes, I hope she gets better soon.",
+    "no": "No, I don't hope she gets better soon."
+  },
+  {
+    "id": 228,
+    "question": "228. Did we leave Boston at 10:15 and get to Ottawa at 11:45?",
+    "yes": "Yes, we left Boston at 10:15 and got to Ottawa at 11:45.",
+    "no": "No, we didn't leave Boston at 10:15 and didn't get to Ottawa at 11:45."
+  },
+  {
+    "id": 229,
+    "question": "229. Did a car stop and a man get out?",
+    "yes": "Yes, a car stopped and a man got out.",
+    "no": "No, a car didn't stop and a man didn't get out."
+  },
+  {
+    "id": 230,
+    "question": "230. Did we get on the bus outside the hotel and get off at Church street?",
+    "yes": "Yes, we got on the bus outside the hotel and got off at Church street.",
+    "no": "No, we didn't get on the bus outside the hotel and didn't get off at Church street."
+  },
+  {
+    "id": 231,
+    "question": "231. Do you do the same thing at work every day?",
+    "yes": "Yes, I do the same thing at work every day.",
+    "no": "No, I don’t do the same thing at work every day."
+  },
+  {
+    "id": 232,
+    "question": "232. When was your favorite movie made?",
+    "yes": "My favorite movie was made in … (ex. My favorite movie was made in 2002.)",
+    "no": ""
+  },
+  {
+    "id": 233,
+    "question": "233. What are you doing tonight?",
+    "yes": "I’m doing ... tonight. (ex. I'm playing chess tonight.)",
+    "no": ""
+  },
+  {
+    "id": 234,
+    "question": "234. Did you make any mistakes?",
+    "yes": "Yes, I made some mistakes.",
+    "no": "No, I didn’t make any mistakes."
+  },
+  {
+    "id": 235,
+    "question": "235. Have you had long hair before?",
+    "yes": "Yes, I’ve had long hair before.",
+    "no": "No, I haven’t had long hair before."
+  },
+  {
+    "id": 236,
+    "question": "236. Can I have a cookie?",
+    "yes": "Yes, you can have a cookie.",
+    "no": "No, you can’t have a cookie."
+  },
+  {
+    "id": 237,
+    "question": "237. Do you have breakfast with coffee?",
+    "yes": "Yes, I have breakfast with coffee .",
+    "no": "No, I don’t have breakfast with coffee."
+  },
+  {
+    "id": 238,
+    "question": "238. Has your brother or sister got a job?",
+    "yes": "Yes, my brother or sister has got a job.",
+    "no": "No, my brother or sister hasn't got a job."
+  },
+  {
+    "id": 239,
+    "question": "239. Does Diane drink milk?",
+    "yes": "Yes, Diane drinks milk.",
+    "no": "No, Diane doesn't drink milk."
+  },
+  {
+    "id": 240,
+    "question": "240. This letter isn’t for me, is it for you?",
+    "yes": "Yes, it’s for me.",
+    "no": "No, it isn’t for me."
+  },
+  {
+    "id": 241,
+    "question": "241. Where's the newspaper?",
+    "yes": "The newspaper is on the table.",
+    "no": "I don't know where the newspaper is."
+  },
+  {
+    "id": 242,
+    "question": "242. I don't want these books. Do you want to\nhave them?",
+    "yes": "Yes, I want to have them.",
+    "no": "No, I don't want to have them."
+  },
+  {
+    "id": 243,
+    "question": "243. Is Hawaii famous for its beaches?",
+    "yes": "Yes, Hawaii is famous for its beaches.",
+    "no": "No, Hawaii isn’t famous for its beaches."
+  },
+  {
+    "id": 244,
+    "question": "244. Do you like your house?",
+    "yes": "Yes, I like my house.",
+    "no": "No, I don’t like my house"
+  },
+  {
+    "id": 245,
+    "question": "245. Did Helen give you her umbrella?",
+    "yes": "Yes, Helen gave me her umbrella.",
+    "no": "No, Helen didn't give me her umbrella."
+  },
+  {
+    "id": 246,
+    "question": "246. Is it their problem?",
+    "yes": "Yes, it’s their problem.",
+    "no": "No, It isn’t their problem."
+  },
+  {
+    "id": 247,
+    "question": "247. Is this book mine or yours?",
+    "yes": "It’s my book.",
+    "no": "It's your book."
+  },
+  {
+    "id": 248,
+    "question": "248. Did we go in our car and Did they go in their car?",
+    "yes": "Yes, we went in our car and they went in their car.",
+    "no": "No, we didn't go in our car and they didn't go in their car."
+  },
+  {
+    "id": 249,
+    "question": "249. Is this his camera or her camera?",
+    "yes": "It’s his camera.",
+    "no": "It's her camera."
+  },
+  {
+    "id": 250,
+    "question": "250. Was Tom in the restaurant with a friend of his?",
+    "yes": "Yes, Tom was in the restaurant with a friend of his.",
+    "no": "No, Tom wasn't in the restaurant with a friend of his."
+  },
+  {
+    "id": 251,
+    "question": "251. Is this your money or their money?",
+    "yes": "It’s my money.",
+    "no": "It's their money."
+  },
+  {
+    "id": 252,
+    "question": "252. Could you give me your phone number?",
+    "yes": "Yes, I can give you my phone number.",
+    "no": "No, I can’t give you my phone number."
+  },
+  {
+    "id": 253,
+    "question": "253. That's my pen, can you give it to me?",
+    "yes": "Yes, I can give it to you.",
+    "no": "No, I can’t give it to you."
+  },
+  {
+    "id": 254,
+    "question": "254. I gave someone my umbrella, can you give\nme yours?",
+    "yes": "Yes, I can give you mine.",
+    "no": "No, I can’t give you mine."
+  },
+  {
+    "id": 255,
+    "question": "255. Can you remember my name?",
+    "yes": "Yes, I can remember your name.",
+    "no": "No, I can’t remember your name."
+  },
+  {
+    "id": 256,
+    "question": "256. Did you look at yourself in the mirror this morning?",
+    "yes": "Yes, I looked at myself in the mirror this morning.",
+    "no": "No, I didn’t look at myself in the mirror this morning."
+  },
+  {
+    "id": 257,
+    "question": "257. Did you hurt yourself when you fell off your bike?",
+    "yes": "Yes, I hurt myself when I fell off my bike.",
+    "no": "No, I didn’t hurt myself when I fell off my bike."
+  },
+  {
+    "id": 258,
+    "question": "258. Do you live by yourself?",
+    "yes": "Yes, I live by myself.",
+    "no": "No, I don’t live by myself."
+  },
+  {
+    "id": 259,
+    "question": "259. Are you looking at each other?",
+    "yes": "Yes, we are looking at each other.",
+    "no": "No, we aren’t looking at each other."
+  },
+  {
+    "id": 260,
+    "question": "260. Is your hair longer than your best friend’s?",
+    "yes": "Yes, my hair is longer than my best friend’s.",
+    "no": "No, my hair isn’t longer than my best friend's."
+  },
+  {
+    "id": 261,
+    "question": "261. Do you know the cause of the problem?",
+    "yes": "Yes, I know the cause of the problem.",
+    "no": "No, I don't know the cause of the problem."
+  },
+  {
+    "id": 262,
+    "question": "262. Can I sit in the back of the car?",
+    "yes": "Yes, you can sit in the back of the car.",
+    "no": "No, you can’t sit in the back of the car."
+  },
+  {
+    "id": 263,
+    "question": "263. Is Madrid the capital of Spain?",
+    "yes": "Yes, Madrid is the capital of Spain.",
+    "no": "No, Madrid isn’t the capital of Spain."
+  },
+  {
+    "id": 264,
+    "question": "264. Is there a woman at the bus stop?",
+    "yes": "Yes, there is a woman at the bus stop.",
+    "no": "No, there isn’t a woman at the bus stop."
+  },
+  {
+    "id": 265,
+    "question": "265. Can I have another cup of coffee?",
+    "yes": "Yes, you can have another cup of coffee.",
+    "no": "No, you can’t have another cup of coffee."
+  },
+  {
+    "id": 266,
+    "question": "266. Is Seoul a city in Korea?",
+    "yes": "Yes, Seoul is a city in Korea.",
+    "no": "No, Seoul isn’t a city in Korea."
+  },
+  {
+    "id": 267,
+    "question": "267. Was Beethoven a composer?",
+    "yes": "Yes, Beethoven was a composer.",
+    "no": "No, Beethoven wasn’t a composer."
+  },
+  {
+    "id": 268,
+    "question": "268. Where are the scissors?",
+    "yes": "The scissors are …       (ex. The scissors are on the table)",
+    "no": ""
+  },
+  {
+    "id": 269,
+    "question": "269. Do you need a new pair of jeans?",
+    "yes": "Yes, I need a new pair of jeans.",
+    "no": "No, I don’t need a new pair of jeans."
+  },
+  {
+    "id": 270,
+    "question": "270. Do you think a lot of people speak English in Korea?",
+    "yes": "Yes, I think a lot of people speak English in Korea.",
+    "no": "No, I don’t think a lot of people speak English in Korea."
+  },
+  {
+    "id": 271,
+    "question": "271. Are people around you very friendly?",
+    "yes": "Yes, people around me are very friendly.",
+    "no": "No, people around me aren’t very friendly."
+  },
+  {
+    "id": 272,
+    "question": "272. Can we get into the house without a key?",
+    "yes": "Yes, we can get into the house without a key.",
+    "no": "No, we can’t get into the house without a key."
+  },
+  {
+    "id": 273,
+    "question": "273. Do you have any songs on your smartphone?",
+    "yes": "Yes, I have some songs on my smartphone.",
+    "no": "No, I don’t have any songs on my smartphone."
+  },
+  {
+    "id": 274,
+    "question": "274. Is there much salt in the salt box?",
+    "yes": "Yes, there is a lot of salt in the salt box.",
+    "no": "No, there isn’t much salt in the salt box."
+  },
+  {
+    "id": 275,
+    "question": "275. Is money everything?",
+    "yes": "Yes, money is everything.",
+    "no": "No, money isn’t everything."
+  },
+  {
+    "id": 276,
+    "question": "276. Do you have a hat, any shoes, and any perfume?",
+    "yes": "Yes, I have a hat, some shoes, and some perfume.",
+    "no": "No, I don’t have a hat, any shoes, or any perfume."
+  },
+  {
+    "id": 277,
+    "question": "277. Do you want anything to read? I’m going\nto buy a paper.",
+    "yes": "Yes, I want something to read.",
+    "no": "No, I don’t want anything to read."
+  },
+  {
+    "id": 278,
+    "question": "278. Can you give me any advice about\nfurniture?",
+    "yes": "Yes, I can give you some advice about furniture.",
+    "no": "No, I can’t give you any advice about furniture."
+  },
+  {
+    "id": 279,
+    "question": "279. Do they have very nice furniture in their house?",
+    "yes": "Yes, they have very nice furniture in their house.",
+    "no": "No, they don't have very nice furniture in their house."
+  },
+  {
+    "id": 280,
+    "question": "280. Are you going to wash the window in your house?",
+    "yes": "Yes, I’m going to wash the window in my house.",
+    "no": "No I’m not going to wash the window in my house."
+  },
+  {
+    "id": 281,
+    "question": "281. Did we enjoy our vacation?",
+    "yes": "Yes, we enjoyed our vacation.",
+    "no": "No, we didn't enjoy our vacation."
+  },
+  {
+    "id": 282,
+    "question": "282. Who’s the youngest person in your company?",
+    "yes": "The youngest person in my company is …    (ex. The youngest person in my company is Emma)",
+    "no": ""
+  },
+  {
+    "id": 283,
+    "question": "283. Would you like to speak to the manager?",
+    "yes": "Yes, I’d like to speak to the manager.",
+    "no": "No, I wouldn’t like to speak to the manager."
+  },
+  {
+    "id": 284,
+    "question": "284. What’s the name of your town?",
+    "yes": "The name of my town is … (ex. The name of my town is Uijeong-bu)",
+    "no": ""
+  },
+  {
+    "id": 285,
+    "question": "285. Who’s the best player in the Korean soccer team?",
+    "yes": "... is the best player in the Korean soccer team. (ex. Mr.park is the best player in the Korean soccer team.",
+    "no": ""
+  },
+  {
+    "id": 286,
+    "question": "286. Can you tell me the time, please?",
+    "yes": "The time is … (ex. The time is 3:30PM)",
+    "no": ""
+  },
+  {
+    "id": 287,
+    "question": "287. Do you drive on the right side in your country?",
+    "yes": "Yes, I drive on the right side in my country.",
+    "no": "No, I don't drive on the right side in my country."
+  },
+  {
+    "id": 288,
+    "question": "288. Will you be in class untill 5:00pm today?",
+    "yes": "Yes, I'll be in class until 5:00pm.",
+    "no": "No, I won't be in class until 5:00pm."
+  },
+  {
+    "id": 289,
+    "question": "289. Why’s he in prison?",
+    "yes": "He’s in prison because … (ex. He is in prison because he hit someone)",
+    "no": ""
+  },
+  {
+    "id": 290,
+    "question": "290. Do you go to church on Sundays?",
+    "yes": "Yes, I go to church on Sundays.",
+    "no": "No, I don’t go to church on Sundays."
+  },
+  {
+    "id": 291,
+    "question": "291. Are you going to the bank?",
+    "yes": "Yes, I’m going to the bank.",
+    "no": "No, I’m not going to the bank."
+  },
+  {
+    "id": 292,
+    "question": "292. Do you like music? What kind of music do\nyou like?",
+    "yes": "Yes, I like music, especially jazz music.",
+    "no": "No, I don’t like music."
+  },
+  {
+    "id": 293,
+    "question": "293. Do you eat meat very often?",
+    "yes": "Yes, I eat meat very often.",
+    "no": "No, I don’t eat meat very often."
+  },
+  {
+    "id": 294,
+    "question": "294. Do you know much about the history of your country?",
+    "yes": "Yes, I know a lot about the history of my country.",
+    "no": "No, I don’t know much about the history of my country"
+  },
+  {
+    "id": 295,
+    "question": "295. Are you good at writing letters?",
+    "yes": "Yes, I’m good at writing letters.",
+    "no": "No, I’m not good at writing letters."
+  },
+  {
+    "id": 296,
+    "question": "296. Is Busan one of the cities in Korea?",
+    "yes": "Yes, Busan is one of the cities in Korea.",
+    "no": "No, Busan isn’t one of the cities in Korea."
+  },
+  {
+    "id": 297,
+    "question": "297. Is Japan near China?",
+    "yes": "Yes, Japan is near China.",
+    "no": "No, Japan isn’t near China."
+  },
+  {
+    "id": 298,
+    "question": "298. Is Bangkok in Asia?",
+    "yes": "Yes, Bangkok is in Asia.",
+    "no": "No, Bangkok isn’t in Asia."
+  },
+  {
+    "id": 299,
+    "question": "299. Is Dokdo an island in the east sea of South Korea?",
+    "yes": "Yes, Dokdo is an island in the east sea of South Korea.",
+    "no": "No, Dokdo isn’t an island in the east sea of South Korea."
+  },
+  {
+    "id": 300,
+    "question": "300. Is the pen in your hand expensive?",
+    "yes": "Yes, the pen in my hand is expensive",
+    "no": "No, the pen in my hand isn’t expensive"
+  },
+  {
+    "id": 301,
+    "question": "301. Who’s that singer?",
+    "yes": "That singer is … (ex. That singer is Maroon 5.)",
+    "no": ""
+  },
+  {
+    "id": 302,
+    "question": "302. Those apples look nice. Can I have one?",
+    "yes": "Yes, You can have one.",
+    "no": "No, You can’t have one."
+  },
+  {
+    "id": 303,
+    "question": "303. Mr. ripley has a new job. Did you know\nthat?",
+    "yes": "Yes, I knew that.",
+    "no": "No, I didn’t know that."
+  },
+  {
+    "id": 304,
+    "question": "304. I need a pen. Do you have one?",
+    "yes": "Yes, I have one.",
+    "no": "No, I don’t have one."
+  },
+  {
+    "id": 305,
+    "question": "305. I found a key. Is it the one you lost?",
+    "yes": "Yes, it’s the one I lost.",
+    "no": "No, it isn’t the one I lost."
+  },
+  {
+    "id": 306,
+    "question": "306. I found these keys. Are they the ones you\nlost?",
+    "yes": "Yes, they’re the ones I lost.",
+    "no": "No, they aren’t the ones I lost."
+  },
+  {
+    "id": 307,
+    "question": "307. I don’t like those red shoes but I like the green ones. Which ones do you want?",
+    "yes": "I want the green ones.",
+    "no": "I want the red ones."
+  },
+  {
+    "id": 308,
+    "question": "308. Is there any ice in the freezer?",
+    "yes": "Yes, there’s some ice in the freezer.",
+    "no": "No, there isn’t any ice in the freezer."
+  },
+  {
+    "id": 309,
+    "question": "309. Is there any milk in the fridge?",
+    "yes": "Yes, there is some milk in the fridge.",
+    "no": "No, there isn’t any milk in the fridge."
+  },
+  {
+    "id": 310,
+    "question": "310. Did you make any mistakes this morning?",
+    "yes": "Yes, I made some mistakes this morning.",
+    "no": "No, I didn’t make any mistakes this morning."
+  },
+  {
+    "id": 311,
+    "question": "311. Are there any cookies in the box?",
+    "yes": "Yes, There’re some cookies in the box.",
+    "no": "No, There aren’t any cookies in the box."
+  },
+  {
+    "id": 312,
+    "question": "312. Are there any cars in the parking lot?",
+    "yes": "Yes, there are some cars in the parking lot.",
+    "no": "No, there are no cars in the parking lot."
+  },
+  {
+    "id": 313,
+    "question": "313. Is there any sugar in your coffee?",
+    "yes": "Yes, there is some sugar in my coffee.",
+    "no": "No, there is no sugar in my coffee"
+  },
+  {
+    "id": 314,
+    "question": "314. Are there any problems?",
+    "yes": "Yes, there are some problems.",
+    "no": "No, there are no problems."
+  },
+  {
+    "id": 315,
+    "question": "315. How much money do you have?",
+    "yes": "I have ... (ex. I have1,000 won.)",
+    "no": "I have no money."
+  },
+  {
+    "id": 316,
+    "question": "316. Is there anybody in the room?",
+    "yes": "Yes, there’s somebody in the room.",
+    "no": "No, there isn’t anybody in the room."
+  },
+  {
+    "id": 317,
+    "question": "317. What did you say?",
+    "yes": "I said nothing.",
+    "no": "I said ... (ex. I said that it is cold)"
+  },
+  {
+    "id": 318,
+    "question": "318. The house is empty. Is there no one in it?",
+    "yes": "Yes, there is no one in it.",
+    "no": "No, there isn't no one in it"
+  },
+  {
+    "id": 319,
+    "question": "319. Is there nothing to do in this town?",
+    "yes": "Yes, there is nothing to do in this town.",
+    "no": "No, there isn't nothing to do in this town."
+  },
+  {
+    "id": 320,
+    "question": "320. Is there anybody at the door?",
+    "yes": "Yes, there is somebody at the door.",
+    "no": "No, there is nobody at the door."
+  },
+  {
+    "id": 321,
+    "question": "321. Were you angry but you didn't say\nanything?",
+    "yes": "Yes, I was angry but I didn't say anything.",
+    "no": "No, I wasn't angry"
+  },
+  {
+    "id": 322,
+    "question": "322. Is there anything important in this paper?",
+    "yes": "Yes, there is something important in this paper.",
+    "no": "No, there isn’t anything important in this paper."
+  },
+  {
+    "id": 323,
+    "question": "323. Does Mr. Ripley have anybody to talk to?",
+    "yes": "Yes, Mr. Ripley has somebody to talk to.",
+    "no": "No, Mr. Ripley has nobody to talk to."
+  },
+  {
+    "id": 324,
+    "question": "324. Is there nowhere to go in this town?",
+    "yes": "Yes, there is nowhere to go in this town.",
+    "no": "No, there isn't nowhere to go in this town"
+  },
+  {
+    "id": 325,
+    "question": "325. Do I look different every time you see me?",
+    "yes": "Yes, you look different every time I see you.",
+    "no": "No, you don’t look different every time I see you."
+  },
+  {
+    "id": 326,
+    "question": "326. Is every house on the streets of Korea the same?",
+    "yes": "Yes, every house on the streets of Korea is the same.",
+    "no": "No, every house on the streets of Korea isn’t the same."
+  },
+  {
+    "id": 327,
+    "question": "327. Did it rain every day last week?",
+    "yes": "Yes, it rained every day last week.",
+    "no": "No, it didn’t rain every day last week."
+  },
+  {
+    "id": 328,
+    "question": "328. Did it rain all day yesterday?",
+    "yes": "Yes, it rained all day yesterday.",
+    "no": "No, it didn’t rain all day yesterday."
+  },
+  {
+    "id": 329,
+    "question": "329. Have you been everywhere in Korea?",
+    "yes": "Yes, I’ve been everywhere in Korea.",
+    "no": "No, I haven’t been everywhere in Korea."
+  },
+  {
+    "id": 330,
+    "question": "330. Do you think everybody needs friends?",
+    "yes": "Yes, I think everybody needs friends.",
+    "no": "No, I don’t think everybody needs friends."
+  },
+  {
+    "id": 331,
+    "question": "331. I want to buy a car, do you have the\nmoney?",
+    "yes": "Yes, I have the money.",
+    "no": "No, I don’t have the money."
+  },
+  {
+    "id": 332,
+    "question": "332. Are any of these books very old?",
+    "yes": "Yes, some of these books are very old.",
+    "no": "No, none of these books are very old."
+  },
+  {
+    "id": 333,
+    "question": "333. Do all of the cities in your country have the same problems?",
+    "yes": "Yes, all of the cities in my country have the same problems.",
+    "no": "No, all of the cities in my country don't have the same problems."
+  },
+  {
+    "id": 334,
+    "question": "334. Do you want any of this money?",
+    "yes": "Yes, I want some of this money.",
+    "no": "No, I don't want any of this money"
+  },
+  {
+    "id": 335,
+    "question": "335. Would you like tea or coffee?",
+    "yes": "I’d like both.",
+    "no": "I’d like tea."
+  },
+  {
+    "id": 336,
+    "question": "336. Do you want to go to the movies or the theater?",
+    "yes": "I want to go to the movies.",
+    "no": "I want to go to the theater."
+  },
+  {
+    "id": 337,
+    "question": "337. Do you like both of those pictures?",
+    "yes": "Yes, I like both of those pictures.",
+    "no": "No, I don't like both of those pictures."
+  },
+  {
+    "id": 338,
+    "question": "338. Is either of your parents Canadian?",
+    "yes": "Yes, both of my parents are Canadian.",
+    "no": "No, neither of my parents is Canadian."
+  },
+  {
+    "id": 339,
+    "question": "339. Do you know either of them?",
+    "yes": "Yes, I know both of them.",
+    "no": "No, I don't know either of them."
+  },
+  {
+    "id": 340,
+    "question": "340. Did you buy much food?",
+    "yes": "Yes, I bought a lot of food.",
+    "no": "No, I didn’t buy much food."
+  },
+  {
+    "id": 341,
+    "question": "341. Did you buy many books?",
+    "yes": "Yes, I bought many books.",
+    "no": "No, I didn’t buy many books."
+  },
+  {
+    "id": 342,
+    "question": "342. Did you take any?",
+    "yes": "Yes, I took some.",
+    "no": "No, I didn't take any."
+  },
+  {
+    "id": 343,
+    "question": "343. Do you watch TV much?",
+    "yes": "Yes, I watch TV a lot.",
+    "no": "No, I don’t watch TV much."
+  },
+  {
+    "id": 344,
+    "question": "344. Do you have many friends?",
+    "yes": "Yes, I have many friends.",
+    "no": "No, I don’t have many friends."
+  },
+  {
+    "id": 345,
+    "question": "345. Did you eat anything in the morning?",
+    "yes": "Yes, I ate something in the morning.",
+    "no": "No, I didn’t eat anything in the morning."
+  },
+  {
+    "id": 346,
+    "question": "346. Did you get many calls today?",
+    "yes": "Yes, I got many calls today.",
+    "no": "No, I didn’t get many calls today."
+  },
+  {
+    "id": 347,
+    "question": "347. Was there a little food in the fridge last night?",
+    "yes": "Yes, there was a little food in the fridge last night.",
+    "no": "No, there wasn’t a little food in the fridge last night."
+  },
+  {
+    "id": 348,
+    "question": "348. Is your mother very thin?",
+    "yes": "Yes, my mother is very thin.",
+    "no": "No, my mother isn’t very thin."
+  },
+  {
+    "id": 349,
+    "question": "349. Do your parents speak a little Spanish?",
+    "yes": "Yes, my parents speak a little Spanish.",
+    "no": "No, my parents don’t speak a little Spanish."
+  },
+  {
+    "id": 350,
+    "question": "350. Do your parents live in an old house?",
+    "yes": "Yes, my parents live in an old house.",
+    "no": "No, my parents don’t live in an old house."
+  },
+  {
+    "id": 351,
+    "question": "351. Is the weather nice today?",
+    "yes": "Yes, the weather is nice today.",
+    "no": "No, the weather isn't nice today."
+  },
+  {
+    "id": 352,
+    "question": "352. Did Mr. Ripley tell you about his amazing new job?",
+    "yes": "Yes, Mr. Ripley told me about his amazing new job.",
+    "no": "No, Mr. ripley didn’t tell me about his amazing new job."
+  },
+  {
+    "id": 353,
+    "question": "353. Does the new movie sound interesting?",
+    "yes": "Yes, the new movie sounds interesting.",
+    "no": "No, the new movie doesn’t sound interesting."
+  },
+  {
+    "id": 354,
+    "question": "354. Does your food smell good?",
+    "yes": "Yes, my food smells good.",
+    "no": "No, my food doesn’t smell good."
+  },
+  {
+    "id": 355,
+    "question": "355. Do trains come quickly in your town?",
+    "yes": "Yes, trains come quickly in my town.",
+    "no": "No, trains don’t come quickly in my town."
+  },
+  {
+    "id": 356,
+    "question": "356. Do you understand me perfectly?",
+    "yes": "Yes, I understand you perfectly.",
+    "no": "No, I don’t understand you perfectly."
+  },
+  {
+    "id": 357,
+    "question": "357. Did the Korean baseball team play badly at the last game?",
+    "yes": "Yes, the Korean baseball team played badly at the last game.",
+    "no": "No, the Korean baseball team didn’t play badly at the last game"
+  },
+  {
+    "id": 358,
+    "question": "358. Is a friend of yours a fast runner?",
+    "yes": "Yes, a friend of mine is a fast runner.",
+    "no": "No, a friend of mine isn’t a fast runner."
+  },
+  {
+    "id": 359,
+    "question": "359. Did you go to bed late?",
+    "yes": "Yes, I went to bed late.",
+    "no": "No, I didn’t go to bed late."
+  },
+  {
+    "id": 360,
+    "question": "360. Is Japan older than Korea?",
+    "yes": "Yes, Japan is older than Korea.",
+    "no": "No, Japan isn’t older than Korea."
+  },
+  {
+    "id": 361,
+    "question": "361. How far is it to the station ?",
+    "yes": "It is … (ex. It is 10 minutes to the station)",
+    "no": ""
+  },
+  {
+    "id": 362,
+    "question": "362. Do you take the bus?",
+    "yes": "Yes, I take the bus.",
+    "no": "No, I don't take the bus."
+  },
+  {
+    "id": 363,
+    "question": "363. Is it more expensive to go by car or by\ntrain?",
+    "yes": "It is more expensive to go by car.",
+    "no": "it is more expensive to go by train."
+  },
+  {
+    "id": 364,
+    "question": "364. Was the weather very good yesterday?",
+    "yes": "Yes, the weather was very good yesterday.",
+    "no": "No, the weather wasn't very good yesterday."
+  },
+  {
+    "id": 365,
+    "question": "365. Which is worse - a headache or a\ntoothache?",
+    "yes": "A headache is worse than a toothache.",
+    "no": "A toothache is worse than a headache."
+  },
+  {
+    "id": 366,
+    "question": "366. Are you older than your brother or sister?",
+    "yes": "Yes, I’m older than my brother or sister.",
+    "no": "No, I’m not older than my brother or sister."
+  },
+  {
+    "id": 367,
+    "question": "367. Are the restaurants in your town more crowded than usual?",
+    "yes": "Yes, the restaurants in my town are more crowded than usual.",
+    "no": "No, the restaurants in my town aren’t more crowded than usual."
+  },
+  {
+    "id": 368,
+    "question": "368. Are you a better singer than your parents?",
+    "yes": "Yes, I’m a better singer than my parents.",
+    "no": "No, I’m not a better singer than my parents."
+  },
+  {
+    "id": 369,
+    "question": "369. How much did your shoes cost?",
+    "yes": "My shoes cost ... (ex. my shoes costed 120,000won)",
+    "no": ""
+  },
+  {
+    "id": 370,
+    "question": "370. Have people in your neighborhood got more money than they need?",
+    "yes": "Yes, people in my neighborhood have got more money than they need.",
+    "no": "No, people in my neighborhood haven't got more money than they need"
+  },
+  {
+    "id": 371,
+    "question": "371. Is Seoul as old as Tokyo?",
+    "yes": "Yes, Seoul is as old as Tokyo.",
+    "no": "No, Seoul isn’t as old as Tokyo."
+  },
+  {
+    "id": 372,
+    "question": "372. Do you think the weather is better than yesterday’s?",
+    "yes": "Yes, I think the weather is better than yesterday’s.",
+    "no": "No, I don’t think the weather is better than yesterday’s."
+  },
+  {
+    "id": 373,
+    "question": "373. Do your friends know as many people as you do?",
+    "yes": "Yes, my friends know as many people as I do.",
+    "no": "No, my friends don’t know as many people as I do."
+  },
+  {
+    "id": 374,
+    "question": "374. Do you work out as hard as me?",
+    "yes": "Yes, I work out as hard as you.",
+    "no": "No, I don’t work out as hard as you."
+  },
+  {
+    "id": 375,
+    "question": "375. Did you arrive home at the same time as your family?",
+    "yes": "Yes, I arrived home at the same time as my family.",
+    "no": "No, I didn’t arrive home at the same time as my family."
+  },
+  {
+    "id": 376,
+    "question": "376. What’s the oldest building in your town?",
+    "yes": "The oldest building in my town is ... (ex. The oldest building in my town is the town hall)",
+    "no": ""
+  },
+  {
+    "id": 377,
+    "question": "377. Is money the most important thing in your life?",
+    "yes": "Yes, money is the most important thing in my life.",
+    "no": "No, money isn’t the most important thing in my life."
+  },
+  {
+    "id": 378,
+    "question": "378. What’s the longest river in the world?",
+    "yes": "The longest river in the world is … (ex. The longest river in the world is the Amazon)",
+    "no": ""
+  },
+  {
+    "id": 379,
+    "question": "379. Was the movie you watched last week very\nbad?",
+    "yes": "Yes, the movie I watched last week was very bad.",
+    "no": "No, the movie I watched last week wasn’t very bad."
+  },
+  {
+    "id": 380,
+    "question": "380. Do you think it’s the worst movie you’ve ever seen?",
+    "yes": "Yes, I think it’s the worst movie I’ve ever seen.",
+    "no": "No, I don’t think it’s the worst movie I’ve ever seen."
+  },
+  {
+    "id": 381,
+    "question": "381. What’s the most unusual thing you’ve ever done?",
+    "yes": "The most unusual thing I’ve ever done is ... (ex. The most unusual thing I've even done is eating frog.)",
+    "no": ""
+  },
+  {
+    "id": 382,
+    "question": "382. Is there enough salt in the soup?",
+    "yes": "Yes, there’s enough salt in the soup.",
+    "no": "No, there isn’t enough salt in the soup."
+  },
+  {
+    "id": 383,
+    "question": "383. Do you have enough money to buy a new car?",
+    "yes": "Yes, I have enough money to buy a new car.",
+    "no": "No, I don’t have enough money to buy a new car."
+  },
+  {
+    "id": 384,
+    "question": "384. How long do you study English in a day? Is it enough time to improve your English?",
+    "yes": "I study English for an hour a day, it is enough time to improve my English.",
+    "no": "I study English for an hour a day, it isn’t enough time to improve my English."
+  },
+  {
+    "id": 385,
+    "question": "385. Do you want to have enough time to go swimming?",
+    "yes": "Yes, I want to have enough time to go swimming.",
+    "no": "No, I don’t want to have enough time to go swimming."
+  },
+  {
+    "id": 386,
+    "question": "386. Are there enough chairs for everybody to sit down?",
+    "yes": "Yes, there are enough chairs for everybody to sit down.",
+    "no": "No, there aren’t enough chairs for everybody to sit down."
+  },
+  {
+    "id": 387,
+    "question": "387. Do you think I’m too loud?",
+    "yes": "Yes, I think you are too loud.",
+    "no": "No, I don’ t think you are too loud."
+  },
+  {
+    "id": 388,
+    "question": "388. Do you think you work too hard?",
+    "yes": "Yes, I think I work too hard.",
+    "no": "No, I don’t think I work too hard."
+  },
+  {
+    "id": 389,
+    "question": "389. Is your hat too big for your mother?",
+    "yes": "Yes, my hat is too big for my mother.",
+    "no": "No, my hat isn’t too big for my mother."
+  },
+  {
+    "id": 390,
+    "question": "390. Is there enough sugar in your coffee?",
+    "yes": "Yes, there is enough sugar in my coffee.",
+    "no": "No, there isn’t enough sugar in my coffee."
+  },
+  {
+    "id": 391,
+    "question": "391. Are you too tired to go out?",
+    "yes": "Yes, I’m too tired to go out.",
+    "no": "No, I’m not too tired to go out."
+  },
+  {
+    "id": 392,
+    "question": "392. Do you read a newspaper every day?",
+    "yes": "Yes, I read a newspaper every day.",
+    "no": "No, I don’t read a newspaper every day."
+  },
+  {
+    "id": 393,
+    "question": "393. Do you like Italian food very much?",
+    "yes": "Yes, I like Italian food very much.",
+    "no": "No, I don’t like Italian food very much."
+  },
+  {
+    "id": 394,
+    "question": "394. Do you always make the same mistake?",
+    "yes": "Yes, I always make the same mistake.",
+    "no": "No, I don’t always make the same mistake."
+  },
+  {
+    "id": 395,
+    "question": "395. Did you go to a party last night?",
+    "yes": "Yes, I went to a party last night.",
+    "no": "No, I didn’t go to a party last night."
+  },
+  {
+    "id": 396,
+    "question": "396. Has Joe's father been in the hospital since\nJune?",
+    "yes": "Yes, Joe's father has been in the hospital since June.",
+    "no": "No, Joe's father hasn't been in the hospital since June."
+  },
+  {
+    "id": 397,
+    "question": "397. Have you ever flown?",
+    "yes": "Yes, I’ve flown.",
+    "no": "No, I have never flown."
+  },
+  {
+    "id": 398,
+    "question": "398. Do you often go to restaurants?",
+    "yes": "Yes, I often go to restaurants.",
+    "no": "No, I don’t often go to restaurants."
+  },
+  {
+    "id": 399,
+    "question": "399. Do you always drink coffee in the morning?",
+    "yes": "Yes, I always drink coffee in the morning.",
+    "no": "No, I don’t always drink coffee in the morning."
+  },
+  {
+    "id": 400,
+    "question": "400. Does your family usually have dinner before 7?",
+    "yes": "Yes, my family usually has dinner before 7.",
+    "no": "No, my family doesn’t usually have dinner before 7."
+  },
+  {
+    "id": 401,
+    "question": "401. When you were a child, were you often late to school?",
+    "yes": "Yes, when I was a child, I was often late to school.",
+    "no": "No, when I was a child, I wasn’t often late to school."
+  },
+  {
+    "id": 402,
+    "question": "402. Are you still hungry?",
+    "yes": "Yes, I’m still hungry.",
+    "no": "No, I’m not hungry anymore."
+  },
+  {
+    "id": 403,
+    "question": "403. Do you still live in Korea?",
+    "yes": "Yes, I still live in Korea.",
+    "no": "No, I don’t live in Korea anymore."
+  },
+  {
+    "id": 404,
+    "question": "404. Have you decided what to do yet?",
+    "yes": "Yes, I’ve decided what to do.",
+    "no": "No, I haven’t decided what to do."
+  },
+  {
+    "id": 405,
+    "question": "405. Haven’t you finished your homework already?",
+    "yes": "Yes, I’ve finished my homework already.",
+    "no": "No, I haven’t finished my homework yet."
+  },
+  {
+    "id": 406,
+    "question": "406. What time is your brother or sister\ncoming?",
+    "yes": "My brother or sister is coming ... (ex. My brother or sister is coming at 7pm)",
+    "no": ""
+  },
+  {
+    "id": 407,
+    "question": "407. Can I give your books to Betty?",
+    "yes": "Yes, you can give my books to Betty.",
+    "no": "No, you can’t give my books to Betty."
+  },
+  {
+    "id": 408,
+    "question": "408. Did you buy your mother any flowers for the last parent’s day?",
+    "yes": "Yes, I bought my mother some flowers for the last parent’s day.",
+    "no": "No, I didn’t buy my mother any flowers for the last parent’s day."
+  },
+  {
+    "id": 409,
+    "question": "409. Can you get me a newspaper when you go out?",
+    "yes": "Yes, I can get you a newspaper when I  go out.",
+    "no": "No, I can’t get you a newspaper when I go out."
+  },
+  {
+    "id": 410,
+    "question": "410. Here are the keys. Could you give them to\nyour father?",
+    "yes": "Yes, I can give them to my father.",
+    "no": "No, I can’t give them to my father."
+  },
+  {
+    "id": 411,
+    "question": "411. That’s my book. Can you give it to me?",
+    "yes": "Yes, I can give it to you.",
+    "no": "No, I can’t give it to you."
+  },
+  {
+    "id": 412,
+    "question": "412. Which did you do first last night? Take a shower or have dinner?",
+    "yes": "I took a shower first and then I had dinner.",
+    "no": "I had dinner first and then I took a shower."
+  },
+  {
+    "id": 413,
+    "question": "413. Is it true that Karen is at work, Sue has gone shopping, and Chris is playing football?",
+    "yes": "Yes, it is true that Karen is at work, Sue has gone shopping, and Chris is playing football.",
+    "no": "No, it isn't true that Karen is at work, Sue has gone shopping, and Chris is playing football."
+  },
+  {
+    "id": 414,
+    "question": "414. The pot is very hot, can you open the lid?",
+    "yes": "Yes, I can open the lid.",
+    "no": "No, I can’t open the lid."
+  },
+  {
+    "id": 415,
+    "question": "415. Was it late and were you tired?",
+    "yes": "Yes, it was late, and I was tired.",
+    "no": "No, it was late, but I wasn't tired."
+  },
+  {
+    "id": 416,
+    "question": "416. Do you like China and Japan?",
+    "yes": "Yes, I like China and Japan.",
+    "no": "No, I don’t like either China or Japan."
+  },
+  {
+    "id": 417,
+    "question": "417. Was it raining, when you went out last night?",
+    "yes": "Yes, it was raining when I went out last night.",
+    "no": "No, it wasn't raining when I went out last night."
+  },
+  {
+    "id": 418,
+    "question": "418. Do you always look both ways, before you\ncross the street?",
+    "yes": "Yes, I always look both ways before I cross the street.",
+    "no": "No, I don't always look both ways before I cross the street."
+  },
+  {
+    "id": 419,
+    "question": "419. Did he play football again after he broke his leg?",
+    "yes": "Yes, he played football again after he broke his leg.",
+    "no": "No, he didn't play football again after he broke his leg."
+  },
+  {
+    "id": 420,
+    "question": "420. When you get home tonight, are you going to take a shower first?",
+    "yes": "Yes, when I get home tonight, I’m going to take a shower first.",
+    "no": "No, when I get home tonight, I’m not going to take a shower first."
+  },
+  {
+    "id": 421,
+    "question": "421. Will you wait here until I come back?",
+    "yes": "Yes, I’ll wait here until you come back.",
+    "no": "No, I won’t wait here until you come back."
+  },
+  {
+    "id": 422,
+    "question": "422. If you don’t feel well tomorrow, will you\nstay home?",
+    "yes": "Yes, if I don’t feel well tomorrow, I'll stay home.",
+    "no": "No, if I don’t feel well tomorrow, I won't stay home."
+  },
+  {
+    "id": 423,
+    "question": "423. If you go out, will you close the windows?",
+    "yes": "Yes, If I go out, I’ll close the windows.",
+    "no": "No, If I go out, I won’t close the windows."
+  },
+  {
+    "id": 424,
+    "question": "424. If you see Ann tomorrow, can you ask her to call me?",
+    "yes": "Yes, if I see Anne tomorrow, I can ask her to call you.",
+    "no": "No, if I see Anne tomorrow, I can't ask her to call you."
+  },
+  {
+    "id": 425,
+    "question": "425. Are you going to play tennis if it doesn’t rain tomorrow?",
+    "yes": "Yes, I’m going to play tennis if it doesn’t rain tomorrow.",
+    "no": "No, I’m not going to play tennis if it doesn’t rain tomorrow."
+  },
+  {
+    "id": 426,
+    "question": "426. If you could, would you spend a lot of money on a new car?",
+    "yes": "Yes, if I could, I’d spend a lot of money on a new car.",
+    "no": "No, even if I could,I wouldn’t spend much money on a new car."
+  },
+  {
+    "id": 427,
+    "question": "427. I don’t know the answer. If you knew the\nanswer, would you tell me?",
+    "yes": "Yes, if I knew the answer, I’d tell you.",
+    "no": "No, if I knew the answer, I wouldn’t tell you."
+  },
+  {
+    "id": 428,
+    "question": "428. Would you help me? If you could?",
+    "yes": "Yes, I’d help you, If I could.",
+    "no": "No, I wouldn’t help you, if I could."
+  },
+  {
+    "id": 429,
+    "question": "429. It’s not a very nice place. Would you go there if you were me?",
+    "yes": "Yes, I’d go there if I were you.",
+    "no": "No, I wouldn’t go there if I were you."
+  },
+  {
+    "id": 430,
+    "question": "430. Would you help me if you could?",
+    "yes": "Yes, I would help you if I could.",
+    "no": "No, I wouldn't help you if I could."
+  },
+  {
+    "id": 431,
+    "question": "431. Have you met a woman who can speak three languages?",
+    "yes": "Yes, I’ve met a woman who can speak three languages.",
+    "no": "No, I haven’t met a woman who can speak three languages."
+  },
+  {
+    "id": 432,
+    "question": "432. Do you know anybody who can play the piano?",
+    "yes": "Yes, I know somebody who can play the piano.",
+    "no": "No, I don’t know anybody who can play the piano."
+  },
+  {
+    "id": 433,
+    "question": "433. Do you live in a house which is 100 years old?",
+    "yes": "Yes, I live in a house which is 100 years old.",
+    "no": "No, I don’t live in a house which is 100 years old."
+  },
+  {
+    "id": 434,
+    "question": "434. Are the people that work in the office very friendly?",
+    "yes": "Yes, the people that work in the office are very friendly.",
+    "no": "No, the people that work in the office aren’t very friendly."
+  },
+  {
+    "id": 435,
+    "question": "435. What are you going to do with the salary\nyou earn?",
+    "yes": "I’m going to ... with the salary I earn. (ex. I'm going to travel with the salary I earn.)",
+    "no": ""
+  },
+  {
+    "id": 436,
+    "question": "436. Did you find the books you wanted?",
+    "yes": "Yes, I found the books I wanted.",
+    "no": "No, I didn’t find the books I wanted."
+  },
+  {
+    "id": 437,
+    "question": "437. Was everything you said true?",
+    "yes": "Yes, everything I said was true.",
+    "no": "No, everything I said wasn’t true."
+  },
+  {
+    "id": 438,
+    "question": "438. Is the restaurant that you like near the station?",
+    "yes": "Yes, the restaurant that I like is near the station.",
+    "no": "No, the restaurant that I like isn’t near the station."
+  },
+  {
+    "id": 439,
+    "question": "439. Were you wearing a hat that was too big for you?",
+    "yes": "Yes, I was wearing a hat that was too big for me.",
+    "no": "No, I wasn’t wearing a hat that was too big for me."
+  },
+  {
+    "id": 440,
+    "question": "440. Are you taking a trip at the end of this month?",
+    "yes": "Yes, I’m taking a trip at the end of this month.",
+    "no": "No, I’m not taking a trip at the end of this month."
+  },
+  {
+    "id": 441,
+    "question": "441. Are you staying home on Friday night?",
+    "yes": "Yes, I’m staying home on Friday night.",
+    "no": "No, I’m not staying home on Friday night."
+  },
+  {
+    "id": 442,
+    "question": "442. Are the mountains in Korea beautiful in the fall?",
+    "yes": "Yes, the mountains in Korea are beautiful in the fall.",
+    "no": "No, the mountains in Korea aren’t beautiful in the fall."
+  },
+  {
+    "id": 443,
+    "question": "443. Does the train leave in five minutes?",
+    "yes": "Yes, the train leaves in five minutes.",
+    "no": "No, the train doesn't leave in five minutes."
+  },
+  {
+    "id": 444,
+    "question": "444. Will I see you in a few days?",
+    "yes": "Yes, you'll see me in a few days.",
+    "no": "No, you won't see me in a few days."
+  },
+  {
+    "id": 445,
+    "question": "445. Did you live in Japan from 1996 until 2005?",
+    "yes": "Yes, I lived in Japan from 1996 until 2005.",
+    "no": "No, I didn't live in Japan from 1996 until 2005."
+  },
+  {
+    "id": 446,
+    "question": "446. How long will you be away?",
+    "yes": "I'll be away for ... (ex. I'll be away for 2 weeks)",
+    "no": ""
+  },
+  {
+    "id": 447,
+    "question": "447. When did you start work?",
+    "yes": "I started work ... ago (ex. I started work 1 month ago)",
+    "no": ""
+  },
+  {
+    "id": 448,
+    "question": "448. How long have you learnt English?",
+    "yes": "I’ve learnt English for ... (ex. I've learnt English for 3 years.)",
+    "no": ""
+  },
+  {
+    "id": 449,
+    "question": "449. How long have your parents been married?",
+    "yes": "My parents have been married for ... (ex. My parents have been married for 20 years.)",
+    "no": ""
+  },
+  {
+    "id": 450,
+    "question": "450. Did you fall asleep during the movie?",
+    "yes": "Yes, I fell asleep during the movie.",
+    "no": "No, I didn’t fall asleep during the movie."
+  },
+  {
+    "id": 451,
+    "question": "451. Could you close the windows before you go out?",
+    "yes": "Yes, I can close the windows before I go out.",
+    "no": "No, I can’t close the windows before I go out."
+  },
+  {
+    "id": 452,
+    "question": "452. Do you sweat a lot while you’re working out?",
+    "yes": "Yes, I sweat a lot while I’m working out.",
+    "no": "No, I don’t sweat much while I’m working out."
+  },
+  {
+    "id": 453,
+    "question": "453. Does your family speak during their\nmeals?",
+    "yes": "Yes, my family speaks during their meals.",
+    "no": "No, my family doesn’t speak during their meals."
+  },
+  {
+    "id": 454,
+    "question": "454. Do you have breakfast after reading the newspaper?",
+    "yes": "Yes, I have breakfast after reading the newspaper.",
+    "no": "No, I don’t have breakfast after reading the newspaper."
+  },
+  {
+    "id": 455,
+    "question": "455. Do you live in a big city?",
+    "yes": "Yes, I live in a big city.",
+    "no": "No, I don’t live in a big city."
+  },
+  {
+    "id": 456,
+    "question": "456. Is your laptop on your desk?",
+    "yes": "Yes, my laptop is on my desk.",
+    "no": "No, my laptop isn’t on my desk."
+  },
+  {
+    "id": 457,
+    "question": "457. Is your house at the end of the street?",
+    "yes": "Yes, my house is at the end of the street.",
+    "no": "No, my house isn’t at the end of the street."
+  },
+  {
+    "id": 458,
+    "question": "458. Are there a lot of leaves on the trees?",
+    "yes": "Yes, there are a lot of leaves on the trees.",
+    "no": "No, there aren’t a lot of leaves on the trees."
+  },
+  {
+    "id": 459,
+    "question": "459. Did you read about the accident in the\nnewspaper?",
+    "yes": "Yes, I read about the accident in the newspaper.",
+    "no": "No, I didn't read about the accident in the newspaper."
+  },
+  {
+    "id": 460,
+    "question": "460. Are you home now?",
+    "yes": "Yes, I’m home now.",
+    "no": "No, I’m not home now."
+  },
+  {
+    "id": 461,
+    "question": "461. Did you come here on the bus?",
+    "yes": "Yes, I came here on the bus.",
+    "no": "No I didn't come here on the bus."
+  },
+  {
+    "id": 462,
+    "question": "462. Is the office on the second floor?",
+    "yes": "Yes, the office is on the second floor.",
+    "no": "No, the office isn't on the second floor."
+  },
+  {
+    "id": 463,
+    "question": "463. Do you live on the first floor?",
+    "yes": "Yes, I live on the first floor.",
+    "no": "No, I don’t live on the first floor."
+  },
+  {
+    "id": 464,
+    "question": "464. What time do you go to bed?",
+    "yes": "I go to bed at … (ex. I go to bed at 12am)",
+    "no": ""
+  },
+  {
+    "id": 465,
+    "question": "465. Do you like to read in bed?",
+    "yes": "Yes, I like to read in bed.",
+    "no": "No, I don’t like to read in bed."
+  },
+  {
+    "id": 466,
+    "question": "466. Do you want to stay home on the weekend?",
+    "yes": "Yes, I want to stay home on the weekend.",
+    "no": "No, I don’t want to stay home on the weekend."
+  },
+  {
+    "id": 467,
+    "question": "467. You look so tired, do you want to go\nhome?",
+    "yes": "Yes, I want to go home.",
+    "no": "No, I don’t want to go home."
+  },
+  {
+    "id": 468,
+    "question": "468. What time do you normally arrive at the station?",
+    "yes": "I normally arrive at the station by ... ex. I normally arrive at the station 10:15am)",
+    "no": ""
+  },
+  {
+    "id": 469,
+    "question": "469. Is your sister or brother on your left?",
+    "yes": "Yes, my sister or brother is on my left.",
+    "no": "No, my sister or brother isn’t on my left."
+  },
+  {
+    "id": 470,
+    "question": "470. Who’s that man standing by the window?",
+    "yes": "that man standing by the window   is ... (ex. That man standing by the window is ripley)",
+    "no": ""
+  },
+  {
+    "id": 471,
+    "question": "471. Are you under a tree?",
+    "yes": "Yes, I’m under a tree.",
+    "no": "No, I’m not under a tree."
+  },
+  {
+    "id": 472,
+    "question": "472. Are the shelves below the pictures in your room?",
+    "yes": "Yes, the shelves are below the pictures in my room.",
+    "no": "No, the shelves aren’t below the pictures in my room."
+  },
+  {
+    "id": 473,
+    "question": "473. Are you wearing a jacket under your coat?",
+    "yes": "Yes, I’m wearing a jacket under my coat.",
+    "no": "No, I'm not wearing a jacket under my coat."
+  },
+  {
+    "id": 474,
+    "question": "474. Are a lot of Korean words from Chinese?",
+    "yes": "Yes, a lot of Korean words are from Chinese.",
+    "no": "No, a lot of Korean words aren’t from Chinese."
+  },
+  {
+    "id": 475,
+    "question": "475. Did you jump into the water during summer vacation?",
+    "yes": "Yes, I jumped into the water during summer vacation.",
+    "no": "No, I didn’t jump into the water during summer vacation."
+  },
+  {
+    "id": 476,
+    "question": "476. Can you take your feet off the table?",
+    "yes": "Yes, I can take my feet off the table.",
+    "no": "No, I can't take my feet off the table."
+  },
+  {
+    "id": 477,
+    "question": "477. Did you fall off your bicycle?",
+    "yes": "Yes, I fell off my bicycle.",
+    "no": "No, I didn't fall off my bicycle."
+  },
+  {
+    "id": 478,
+    "question": "478. Do you watch the news on television?",
+    "yes": "Yes, I watch the news on television.",
+    "no": "No, I don’t watch the news on television."
+  },
+  {
+    "id": 479,
+    "question": "479. Does Jane usually go to work by bike?",
+    "yes": "Yes, Jane usually goes to work by bike.",
+    "no": "No, Jane doesn't usually go to work by bike."
+  },
+  {
+    "id": 480,
+    "question": "480. Have you read any books by Charles Dickens?",
+    "yes": "Yes, I’ve read some books by Charles Dickens.",
+    "no": "No, I haven’t read any books by Charles Dickens."
+  },
+  {
+    "id": 481,
+    "question": "481. Do you like your coffee with or without\nmilk?",
+    "yes": "I like my coffee with milk.",
+    "no": "I like my coffee without milk."
+  },
+  {
+    "id": 482,
+    "question": "482. Are you afraid of cats?",
+    "yes": "Yes, I’m afraid of cats.",
+    "no": "No, I’m not afraid of cats."
+  },
+  {
+    "id": 483,
+    "question": "483. Is your company full of people?",
+    "yes": "Yes, my company is full of people.",
+    "no": "No, my company isn’t full of people."
+  },
+  {
+    "id": 484,
+    "question": "484. Are you interested in sports?",
+    "yes": "Yes, I’m interested in sports.",
+    "no": "No, I’m not interested in sports."
+  },
+  {
+    "id": 485,
+    "question": "485. Do you feel sorry for anyone now?",
+    "yes": "Yes, I feel sorry for someone now.",
+    "no": "No, I don’t feel sorry for anyone now."
+  },
+  {
+    "id": 486,
+    "question": "486. Are you good at driving?",
+    "yes": "Yes, I’m good at driving.",
+    "no": "No, I’m not good at driving."
+  },
+  {
+    "id": 487,
+    "question": "487. Can I ask you for money?",
+    "yes": "Yes, you can ask me for money.",
+    "no": "No, you can’t ask me for money."
+  },
+  {
+    "id": 488,
+    "question": "488. Does this book belong to you?",
+    "yes": "Yes, this book belongs to me.",
+    "no": "No, this book doesn’t belong to me."
+  },
+  {
+    "id": 489,
+    "question": "489. Are you looking for anything?",
+    "yes": "Yes, I’m looking for something",
+    "no": "No, I’m not looking for anything."
+  },
+  {
+    "id": 490,
+    "question": "490. Have you talked to your friends about your secret?",
+    "yes": "Yes, I’ve talked to my friends about my secret.",
+    "no": "No, I haven’t talked to my friends about my secret."
+  },
+  {
+    "id": 491,
+    "question": "491. Can you take care of this book?",
+    "yes": "Yes, I can take care of that book.",
+    "no": "No, I can't take care of that book."
+  },
+  {
+    "id": 492,
+    "question": "492. Did you look up at the stars in the sky last night?",
+    "yes": "Yes, I looked up at the stars in the sky last night.",
+    "no": "No, I didn’t look up at the stars in the sky last night."
+  },
+  {
+    "id": 493,
+    "question": "493. Did Emma get into the car and drive away?",
+    "yes": "Yes, Emma got into the car and drove away.",
+    "no": "No, Emma didn't get into the car and drive away."
+  },
+  {
+    "id": 494,
+    "question": "494. Have you run away before?",
+    "yes": "Yes, I’ve run away before.",
+    "no": "No, I haven’t run away before."
+  },
+  {
+    "id": 495,
+    "question": "495. Did you turn on the light?",
+    "yes": "Yes, I turned on the light.",
+    "no": "No, I didn't turn on the light."
+  },
+  {
+    "id": 496,
+    "question": "496. Did you stop reading and put your book down?",
+    "yes": "Yes, I stopped reading and put my book down.",
+    "no": "No, I didn't stop reading and put my book down."
+  },
+  {
+    "id": 497,
+    "question": "497. Can I take your umbrella, I’ll bring it back.",
+    "yes": "Yes, you can take my umbrella.",
+    "no": "No, you can’t take my umbrella."
+  },
+  {
+    "id": 498,
+    "question": "498. Can you turn off the light?",
+    "yes": "Yes, I can turn off the light.",
+    "no": "No, I can’t turn off the light."
+  },
+  {
+    "id": 499,
+    "question": "499. Did you read the letter and then put it back in the envelope?",
+    "yes": "Yes, I read the letter and then put it back in the envelope.",
+    "no": "No, I didn't read the letter and then put it back in the envelope."
+  },
+  {
+    "id": 500,
+    "question": "500. Do you have to give the keys back to her?",
+    "yes": "Yes, I have to give the keys back to her.",
+    "no": "No, I don't have to give the keys back to her."
+  },
+  {
+    "id": 501,
+    "question": "501. Mr. Thomas is a very old man. Is he 98\nyears old?",
+    "yes": "Yes, he is 98 years old.",
+    "no": "No, he is not 98 years old."
+  },
+  {
+    "id": 502,
+    "question": "502. Catherine isn’t at home. Is she at work?",
+    "yes": "Yes, she is at work.",
+    "no": "No, she is not at work."
+  },
+  {
+    "id": 503,
+    "question": "503. These chairs aren’t beautiful. But are\nthey comfortable?",
+    "yes": "Yes, they are comfortable.",
+    "no": "No, they are not comfortable."
+  },
+  {
+    "id": 504,
+    "question": "504. Are you interested in sports?",
+    "yes": "Yes, I am interested in sports.",
+    "no": "No, I am not interested in sports."
+  },
+  {
+    "id": 505,
+    "question": "505. These postcards are nice. How much are\nthey?",
+    "yes": "They are total $ …. (Ex) $25",
+    "no": ""
+  },
+  {
+    "id": 506,
+    "question": "506. Where is she from?",
+    "yes": "She is from …. (Ex) South Korea",
+    "no": ""
+  },
+  {
+    "id": 507,
+    "question": "507. Can you turn off the television?",
+    "yes": "Yes, I can turn off the television.",
+    "no": "No, I can’t turn off the television."
+  },
+  {
+    "id": 508,
+    "question": "508. Are your parents watching the\ntelevision?",
+    "yes": "Yes, they’re watching the television.",
+    "no": "No, they aren’t watching the television."
+  },
+  {
+    "id": 509,
+    "question": "509. Does Jenny wear nice clothes?",
+    "yes": "Yes, she wears nice clothes.",
+    "no": "No, she doesn’t wear nice clothes."
+  },
+  {
+    "id": 510,
+    "question": "510. Does Carol like classical music?",
+    "yes": "Yes, she likes classical music.",
+    "no": "No, she doesn’t like classical music."
+  },
+  {
+    "id": 511,
+    "question": "511. Bill and Rose don’t like boxing. Do they\nlike playing soccer?",
+    "yes": "Yes, they like playing soccer.",
+    "no": "No, they don’t like playing soccer."
+  },
+  {
+    "id": 512,
+    "question": "512. Do you ride a bicycle very often?",
+    "yes": "Yes, I ride a bicycle very often.",
+    "no": "No, I don’t ride a bicycle very often."
+  },
+  {
+    "id": 513,
+    "question": "513. Do you travel by train a lot?",
+    "yes": "Yes, I travel by train a lot.",
+    "no": "No, I don’t travel by train much."
+  },
+  {
+    "id": 514,
+    "question": "514. Do you do yoga every morning?",
+    "yes": "Yes, I do yoga every morning.",
+    "no": "No, I don’t do yoga every morning."
+  },
+  {
+    "id": 515,
+    "question": "515. What do you want for dinner?",
+    "yes": "I want to eat …. (Ex) steak.",
+    "no": "No, I am still full."
+  },
+  {
+    "id": 516,
+    "question": "516. How much does it cost to call Mexico?",
+    "yes": "It costs …. (Ex) $1 per minute.",
+    "no": ""
+  },
+  {
+    "id": 517,
+    "question": "517. Is he washing a window?",
+    "yes": "Yes, he is washing a window.",
+    "no": "No, he is not washing a window."
+  },
+  {
+    "id": 518,
+    "question": "518. I don’t like my job. It’s very boring. Do\nyou like your job?",
+    "yes": "Yes, I like my job because it is funny.",
+    "no": "No, I don’t like my job because it is boring."
+  },
+  {
+    "id": 519,
+    "question": "519. That’s a very beautiful picture. Do you\nlike it a lot?",
+    "yes": "Yes. I like it a lot.",
+    "no": "No, I don’t like it much."
+  },
+  {
+    "id": 520,
+    "question": "520. Does he eat meat?",
+    "yes": "Yes, he eats meat.",
+    "no": "No, he is vegetarian."
+  },
+  {
+    "id": 521,
+    "question": "521. I’m sorry, I do not understand. Can you\nspeak more slowly?",
+    "yes": "Yes, I can speak more slowly.",
+    "no": "No, I can’t speak more slowly."
+  },
+  {
+    "id": 522,
+    "question": "522. I want to be famous. How about you?",
+    "yes": "Yes, I want to be famous.",
+    "no": "No, I don’t want to be famous."
+  },
+  {
+    "id": 523,
+    "question": "523. Do you live in a big city?",
+    "yes": "Yes, I live in a big city.",
+    "no": "No, I don’t live in a big city."
+  },
+  {
+    "id": 524,
+    "question": "524. Do they read a lot?",
+    "yes": "Yes, they read a lot.",
+    "no": "No, they don’t read much."
+  },
+  {
+    "id": 525,
+    "question": "525. What’s wrong? Have you got something\nin your eye?",
+    "yes": "Yes, I’ve got something in my eye.",
+    "no": "No, I haven’t got anything in my eye."
+  },
+  {
+    "id": 526,
+    "question": "526. I was very tired last night. Were you\ntired last night?",
+    "yes": "Yes, I was tired last night.",
+    "no": "No, I was not tired last night."
+  },
+  {
+    "id": 527,
+    "question": "527. Did you buy those shoes? Were they\nexpensive?",
+    "yes": "Yes, they were expensive.",
+    "no": "No, they weren’t expensive."
+  },
+  {
+    "id": 528,
+    "question": "528. Did you call Chris this morning?",
+    "yes": "Yes, I called Chris this morning.",
+    "no": "No, I did not call Chris this morning."
+  },
+  {
+    "id": 529,
+    "question": "529. The sun was shining. Were birds\nsinging?",
+    "yes": "Yes, birds were singing.",
+    "no": "No, birds weren’t singing."
+  },
+  {
+    "id": 530,
+    "question": "530. Did I open the window?",
+    "yes": "Yes, you opened the window.",
+    "no": "No, you did not open the window."
+  },
+  {
+    "id": 531,
+    "question": "531. Did Anna’s grandfather die when he was 90 years old?",
+    "yes": "Yes, Anna’s grandfather died when he was 90 years old.",
+    "no": "No, Anna’s grandfather didn’t die when he was 90 years old."
+  },
+  {
+    "id": 532,
+    "question": "532. Did James go to work by car?",
+    "yes": "Yes, James went to work by car.",
+    "no": "No, he didn’t go to work by car."
+  },
+  {
+    "id": 533,
+    "question": "533. Did you eat an orange yesterday?",
+    "yes": "Yes, I ate an orange yesterday.",
+    "no": "No, I didn’t eat an orange yesterday."
+  },
+  {
+    "id": 534,
+    "question": "534. Our friends often come to see us. Did\nthey come last Friday?",
+    "yes": "Yes, they came last Friday.",
+    "no": "No, they didn’t come last Friday."
+  },
+  {
+    "id": 535,
+    "question": "535. I had a nice vacation. Did you have a\nnice vacation?",
+    "yes": "Yes, I had a nice vacation.",
+    "no": "No, I didn’t have a nice vacation."
+  },
+  {
+    "id": 536,
+    "question": "536. I finished work early. Did you finish work\nearly?",
+    "yes": "Yes, I finished work early.",
+    "no": "No, I didn’t finished work early."
+  },
+  {
+    "id": 537,
+    "question": "537. What kind of clothes did Tim buy\nyesterday?",
+    "yes": "Tim bought …. (Ex) two shirts, a jacket, and a sweater yesterday.",
+    "no": ""
+  },
+  {
+    "id": 538,
+    "question": "538. Jack and Kate were at the supermarket.\nWere they buying food?",
+    "yes": "Yes, they were buying food.",
+    "no": "No, they weren’t buying food."
+  },
+  {
+    "id": 539,
+    "question": "539. Were you having coffee with some friends?",
+    "yes": "Yes, I was having coffee with some friends.",
+    "no": "No, I was not having coffee with any friends."
+  },
+  {
+    "id": 540,
+    "question": "540. Was she cleaning the kitchen?",
+    "yes": "Yes, she was cleaning the kitchen.",
+    "no": "No, she wasn’t cleaning the kitchen."
+  },
+  {
+    "id": 541,
+    "question": "541. Wasn’t he riding a bicycle?",
+    "yes": "Yes, he was riding a bicycle. No, he was not riding a bicycle.",
+    "no": ""
+  },
+  {
+    "id": 542,
+    "question": "542. Why was Sue driving?",
+    "yes": "She was going to a party.",
+    "no": ""
+  },
+  {
+    "id": 543,
+    "question": "543. Was the weather nice last week?",
+    "yes": "Yes, the weather was nice last week.",
+    "no": "No, the weather wasn’t nice last week."
+  },
+  {
+    "id": 544,
+    "question": "544. How did you get your apartment?",
+    "yes": "I saved money and waited for a long time",
+    "no": ""
+  },
+  {
+    "id": 545,
+    "question": "545. Was your exam difficult?",
+    "yes": "Yes, the exam was difficult.",
+    "no": "No, the exam was not difficult."
+  },
+  {
+    "id": 546,
+    "question": "546. Was Ben at the beach?",
+    "yes": "Yes, Ben was at the beach.",
+    "no": "No, Ben wasn’t at the beach."
+  },
+  {
+    "id": 547,
+    "question": "547. Was Tim wearing a suit yesterday?",
+    "yes": "Yes, he was wearing a suit.",
+    "no": "No, he was not wearing a suit."
+  },
+  {
+    "id": 548,
+    "question": "548. Was Jane busy when you went to see her?",
+    "yes": "Yes, Jane was busy when I went to see her.",
+    "no": "No, Jane wasn’t busy when I went to see her."
+  },
+  {
+    "id": 549,
+    "question": "549. Did your team win the baseball game yesterday?",
+    "yes": "Yes, my team won the baseball game yesterday.",
+    "no": "No, my team didn’t win the baseball game."
+  },
+  {
+    "id": 550,
+    "question": "550. Did you see Jenny last night?",
+    "yes": "Yes, I saw Jenny last night.",
+    "no": "No, I didn’t see Jenny last night."
+  },
+  {
+    "id": 551,
+    "question": "551. Have you ever played golf?",
+    "yes": "Yes, I have played golf.",
+    "no": "No, I haven’t played golf."
+  },
+  {
+    "id": 552,
+    "question": "552. Has she been to Peru twice?",
+    "yes": "Yes, she has been to Peru twice.",
+    "no": "No, she hasn’t been to Peru twice."
+  },
+  {
+    "id": 553,
+    "question": "553. Have you seen that woman before?",
+    "yes": "Yes, I have seen that woman before.",
+    "no": "No, I haven’t seen that woman before."
+  },
+  {
+    "id": 554,
+    "question": "554. Have you ever driven a bus?",
+    "yes": "Yes, I have driven a bus.",
+    "no": "No, I haven’t driven a bus."
+  },
+  {
+    "id": 555,
+    "question": "555. How long has she been studying Italian?",
+    "yes": "She has been studying Italian for (Ex) 5 years.",
+    "no": ""
+  },
+  {
+    "id": 556,
+    "question": "556. How long have you been staying in the\nUK?",
+    "yes": "I have been staying in the UK for (Ex) 10 years.",
+    "no": ""
+  },
+  {
+    "id": 557,
+    "question": "557. Jane and I are friends. Have you known her for a long time?",
+    "yes": "Yes, I have known her for a long time.",
+    "no": "No, I haven’t known her for a long time."
+  },
+  {
+    "id": 558,
+    "question": "558. Has she been reading it for two hours?",
+    "yes": "Yes, she has been reading it for two hours.",
+    "no": "No, she hasn’t been reading it for two hours."
+  },
+  {
+    "id": 559,
+    "question": "559. Did Jane arrive in Brazil three days ago?",
+    "yes": "Yes, Jane arrived in Brazil three days ago.",
+    "no": "No, Jane didn’t arrive in Brazil three days ago."
+  },
+  {
+    "id": 560,
+    "question": "560. Have you lived in this town for three\nyears?",
+    "yes": "Yes, I have lived in this town for three years.",
+    "no": "No, I haven’t lived in this town for three years."
+  },
+  {
+    "id": 561,
+    "question": "561. Have you been studying English for six months?",
+    "yes": "Yes, I have been studying English for six months.",
+    "no": "No, I haven’t been studying English for six months."
+  },
+  {
+    "id": 562,
+    "question": "562. Have you had a headache since you got up this morning?",
+    "yes": "Yes, I have had a headache since I got up this morning.",
+    "no": "No, I haven’t had a headache since I got up this morning."
+  },
+  {
+    "id": 563,
+    "question": "563. Has she broken her arm?",
+    "yes": "Yes, she has broken her arm.",
+    "no": "No she hasn’t broken her arm."
+  },
+  {
+    "id": 564,
+    "question": "564. Have you paid the electric bill?",
+    "yes": "Yes, I have paid the electric bill.",
+    "no": "No, I haven’t paid the electric bill."
+  },
+  {
+    "id": 565,
+    "question": "565. Have you told your friends the good news?",
+    "yes": "Yes, I have told my friends the good news.",
+    "no": "No, I haven’t told my friends the good news."
+  },
+  {
+    "id": 566,
+    "question": "566. Have you written them a letter?",
+    "yes": "Yes, I have written them a letter.",
+    "no": "No, I haven’t written them a letter."
+  },
+  {
+    "id": 567,
+    "question": "567. Have you met the mail carrier?",
+    "yes": "Yes, I have met the mail carrier. No, I haven’t met the mail carrier.",
+    "no": ""
+  },
+  {
+    "id": 568,
+    "question": "568. Have we done our packing for our trip?",
+    "yes": "Yes, we have done our packing for our trip.",
+    "no": "No, we haven’t done our packing for our trip."
+  },
+  {
+    "id": 569,
+    "question": "569. Have you just swum a mile?",
+    "yes": "Yes, I have swum a mile.",
+    "no": "No, I haven’t swum a mile."
+  },
+  {
+    "id": 570,
+    "question": "570. Has he written many books?",
+    "yes": "Yes, he has written many books.",
+    "no": "No, he hasn’t written many books."
+  },
+  {
+    "id": 571,
+    "question": "571. Has she won many prizes for her\npaintings?",
+    "yes": "Yes, she has won many prizes for her paintings.",
+    "no": "No, she hasn’t won many prizes for her paintings."
+  },
+  {
+    "id": 572,
+    "question": "572. Have you been there?",
+    "yes": "Yes, I have been there.",
+    "no": "No, I haven’t been there."
+  },
+  {
+    "id": 573,
+    "question": "573. Have you turned off the light before leaving this morning?",
+    "yes": "Yes, I have turned off the light before leaving this morning.",
+    "no": "No, I haven’t turned off the light before leaving this morning."
+  },
+  {
+    "id": 574,
+    "question": "574. Have you ever met a famous person?",
+    "yes": "Yes, I have met a famous person.",
+    "no": "No, I haven’t met a famous person yet."
+  },
+  {
+    "id": 575,
+    "question": "575. Did you see Kate yesterday?",
+    "yes": "Yes, I saw Kate yesterday.",
+    "no": "No, I didn’t see Kate yesterday."
+  },
+  {
+    "id": 576,
+    "question": "576. Are we allowed to park here?",
+    "yes": "Yes, we are allowed to park here.",
+    "no": "No, we aren’t allowed to park here."
+  },
+  {
+    "id": 577,
+    "question": "577. Was this house built 100 years ago?",
+    "yes": "Yes, this house was built 100 years ago.",
+    "no": "No, this house wasn’t built 100 years ago."
+  },
+  {
+    "id": 578,
+    "question": "578. I saw an accident yesterday. Were two\npeople taken to the hospital?",
+    "yes": "Yes, they were taken to the hospital.",
+    "no": "No, they weren’t taken to the hospital."
+  },
+  {
+    "id": 579,
+    "question": "579. How is this word pronounced?",
+    "yes": "This word is pronounced double R.",
+    "no": ""
+  },
+  {
+    "id": 580,
+    "question": "580. Were three people injured in the accident?",
+    "yes": "Yes, three people were injured in the accident.",
+    "no": "No, three people weren’t injured in the accident."
+  },
+  {
+    "id": 581,
+    "question": "581. When was this bridge built?",
+    "yes": "This bridge was built in 1998.",
+    "no": ""
+  },
+  {
+    "id": 582,
+    "question": "582. How were these windows broken?",
+    "yes": "These windows were broken by the storm.",
+    "no": ""
+  },
+  {
+    "id": 583,
+    "question": "583. Is this word used very often?",
+    "yes": "Yes, this word is used very often.",
+    "no": "No, this word isn’t used very often."
+  },
+  {
+    "id": 584,
+    "question": "584. Are stamps sold in a post office?",
+    "yes": "Yes, stamps are sold in a post office.",
+    "no": "No, stamps aren’t sold in a post office."
+  },
+  {
+    "id": 585,
+    "question": "585. Where were you born?",
+    "yes": "I was born in New York.",
+    "no": ""
+  },
+  {
+    "id": 586,
+    "question": "586. Have trees been cut down?",
+    "yes": "Yes, trees have been cut down.",
+    "no": "No, trees have not been cut down."
+  },
+  {
+    "id": 587,
+    "question": "587. Is the computer being used?",
+    "yes": "Yes, the computer is being used.",
+    "no": "No, the computer isn’t being used."
+  },
+  {
+    "id": 588,
+    "question": "588. Have the shirts been ironed?",
+    "yes": "Yes, the shirts have been ironed.",
+    "no": "No, the shirts haven’t been ironed."
+  },
+  {
+    "id": 589,
+    "question": "589. I can’t use my office right now. Is it being painted?",
+    "yes": "Yes, it is being painted.",
+    "no": "No, it is not being painted."
+  },
+  {
+    "id": 590,
+    "question": "590. Was the washing machine broken?",
+    "yes": "Yes, the washing machine was broken.",
+    "no": "No, the washing machine wasn’t broken."
+  },
+  {
+    "id": 591,
+    "question": "591. Why was the letter sent to the wrong\naddress?",
+    "yes": "I wrote the wrong address by mistake.",
+    "no": ""
+  },
+  {
+    "id": 592,
+    "question": "592. How many languages are spoken in South Korea?",
+    "yes": "Two languages are spoken in South Korea.",
+    "no": ""
+  },
+  {
+    "id": 593,
+    "question": "593. Is paper made from wood?",
+    "yes": "Yes, paper is made from wood.",
+    "no": "No, paper is not made from wood."
+  },
+  {
+    "id": 594,
+    "question": "594. Were two of the rooms damaged?",
+    "yes": "Yes, two of the rooms were damaged.",
+    "no": "No, two of the rooms weren’t damaged."
+  },
+  {
+    "id": 595,
+    "question": "595. Are British programs shown on American television?",
+    "yes": "Yes, British programs are shown on American television.",
+    "no": "No, British programs aren’t shown on American television."
+  },
+  {
+    "id": 596,
+    "question": "596. Are the houses being torn down?",
+    "yes": "Yes, the houses are being torn down.",
+    "no": "No, the houses aren’t being torn down."
+  },
+  {
+    "id": 597,
+    "question": "597. Were you bitten by a dog a few days ago?",
+    "yes": "Yes, I was bitten by a dog a few days ago.",
+    "no": "No, I wasn’t bitten by a dog a few days ago."
+  },
+  {
+    "id": 598,
+    "question": "598. I have never seen these flowers before. What are they called?",
+    "yes": "They are called (Ex) roses.",
+    "no": ""
+  },
+  {
+    "id": 599,
+    "question": "599. Were your sunglasses stolen at the beach yesterday?",
+    "yes": "Yes, my sunglasses were stolen at the beach yesterday.",
+    "no": "No, my sunglasses weren’t stolen at the beach yesterday."
+  },
+  {
+    "id": 600,
+    "question": "600. Is the roof being repaired?",
+    "yes": "Yes, the roof is being repaired.",
+    "no": "No, the roof isn’t being repaired."
+  },
+  {
+    "id": 601,
+    "question": "601. Were your keys stolen last week?",
+    "yes": "Yes, my keys were stolen last week.",
+    "no": "No, my keys weren’t stolen last week."
+  },
+  {
+    "id": 602,
+    "question": "602. Were the paintings painted by a friend\nof yours?",
+    "yes": "Yes, the paintings were painted by a friend of mine.",
+    "no": "No, the paintings weren’t painted by a friend of mine."
+  },
+  {
+    "id": 603,
+    "question": "603. Has the letter arrived?",
+    "yes": "Yes, the letter has arrived.",
+    "no": "No, the letter hasn’t arrived."
+  },
+  {
+    "id": 604,
+    "question": "604. Have you met my brother?",
+    "yes": "Yes, I have met your brother.",
+    "no": "No, I haven’t met your brother."
+  },
+  {
+    "id": 605,
+    "question": "605. Was life very different a hundred years ago?",
+    "yes": "Yes, life was very different a hundred years ago.",
+    "no": "No, life wasn’t very different a hundred years ago."
+  },
+  {
+    "id": 606,
+    "question": "606. How long have you had your car?",
+    "yes": "I have had my car for 10 years.",
+    "no": ""
+  },
+  {
+    "id": 607,
+    "question": "607. Have you read this book?",
+    "yes": "Yes, I have read this book.",
+    "no": "No, I haven’t read this book."
+  },
+  {
+    "id": 608,
+    "question": "608. Did we use to see them a lot?",
+    "yes": "Yes, we used to see them a lot.",
+    "no": "No, we didn’t use to see them much."
+  },
+  {
+    "id": 609,
+    "question": "609. Did Dave use to work in a factory?",
+    "yes": "Yes, Dave used to work in a factory.",
+    "no": "No, Dave didn’t use to work in a factory."
+  },
+  {
+    "id": 610,
+    "question": "610. Was it raining when we went out?",
+    "yes": "Yes, it was raining when we went out.",
+    "no": "No, it wasn’t raining when we went out."
+  },
+  {
+    "id": 611,
+    "question": "611. What was Jack doing when the phone rang?",
+    "yes": "Jack was cooking when the phone rang.",
+    "no": ""
+  },
+  {
+    "id": 612,
+    "question": "612. What were you doing at 11:30 yesterday?",
+    "yes": "I was doing my homework at 11:30 yesterday.",
+    "no": ""
+  },
+  {
+    "id": 613,
+    "question": "613. Did you do your homework?",
+    "yes": "Yes, I did my homework.",
+    "no": "No, I didn’t do my homework."
+  },
+  {
+    "id": 614,
+    "question": "614. Did we dance a lot and talk to a lot of people?",
+    "yes": "Yes, we danced a lot and talked to a lot of people.",
+    "no": "No, we didn’t dance much and talk to many people."
+  },
+  {
+    "id": 615,
+    "question": "615. Why were you late this morning?",
+    "yes": "I was doing my homework for the exam until 4 am.",
+    "no": ""
+  },
+  {
+    "id": 616,
+    "question": "616. Does Harry have any children?",
+    "yes": "Yes, Harry has some children.",
+    "no": "No, Harry doesn’t have any children."
+  },
+  {
+    "id": 617,
+    "question": "617. Do you work every day from 9:00 to 5:30?",
+    "yes": "Yes, I work every day from 9:00 to 5:30.",
+    "no": "No, I don’t work every day from 9:00 to 5:30."
+  },
+  {
+    "id": 618,
+    "question": "618. What do you do?",
+    "yes": "I work …. (Ex) in a bank.",
+    "no": ""
+  },
+  {
+    "id": 619,
+    "question": "619. Does my car use gas?",
+    "yes": "Yes, your car uses gas.",
+    "no": "No, your car doesn’t use gas."
+  },
+  {
+    "id": 620,
+    "question": "620. Does John eat lunch at home every day?",
+    "yes": "Yes, John eats lunch at home every day.",
+    "no": "No, John doesn’t eat lunch at home every day."
+  },
+  {
+    "id": 621,
+    "question": "621. Are you feeling OK?",
+    "yes": "Yes, I am feeling OK.",
+    "no": "No, I am not feeling OK."
+  },
+  {
+    "id": 622,
+    "question": "622. Is the phone ringing?",
+    "yes": "Yes, the phone is ringing.",
+    "no": "No, the phone isn’t ringing."
+  },
+  {
+    "id": 623,
+    "question": "623. This car is nice. How much is this?",
+    "yes": "This is $50000.",
+    "no": ""
+  },
+  {
+    "id": 624,
+    "question": "624. Do we sleep late on weekends?",
+    "yes": "Yes, we sleep late on weekends.",
+    "no": "No, we don’t sleep late on weekends."
+  },
+  {
+    "id": 625,
+    "question": "625. Do you sometimes walk to work?",
+    "yes": "Yes, I sometimes walk to work.",
+    "no": "No, I don’t walk to work."
+  },
+  {
+    "id": 626,
+    "question": "626. Is Andrew playing tennis on Friday?",
+    "yes": "Yes, Andrew is playing tennis on Friday.",
+    "no": "No, Andrew isn’t playing tennis on Friday."
+  },
+  {
+    "id": 627,
+    "question": "627. Is Richard going to the movies?",
+    "yes": "Yes, Richard is going to the movies.",
+    "no": "No, Richard isn’t going to the movies."
+  },
+  {
+    "id": 628,
+    "question": "628. Are you working next week?",
+    "yes": "Yes, I am working next week.",
+    "no": "No, I am not working next week."
+  },
+  {
+    "id": 629,
+    "question": "629. What are you doing tomorrow night?",
+    "yes": "I am doing a presentation tomorrow.",
+    "no": ""
+  },
+  {
+    "id": 630,
+    "question": "630. What time are your friends coming?",
+    "yes": "My friends are coming at 5 pm.",
+    "no": ""
+  },
+  {
+    "id": 631,
+    "question": "631. When is Liz going on vacation?",
+    "yes": "Liz is going on vacation next week.",
+    "no": ""
+  },
+  {
+    "id": 632,
+    "question": "632. Are you going to take a bath?",
+    "yes": "Yes, I am going to take a bath.",
+    "no": "No, I am not going to take a bath."
+  },
+  {
+    "id": 633,
+    "question": "633. Is the car going to turn right?",
+    "yes": "Yes, the car is going to turn right.",
+    "no": "No, the car isn’t going to turn right."
+  },
+  {
+    "id": 634,
+    "question": "634. Is he going to kick the ball?",
+    "yes": "Yes, he is going to kick the ball.",
+    "no": "No, he isn’t going to kick the ball."
+  },
+  {
+    "id": 635,
+    "question": "635. Are you going to call Maria tonight?",
+    "yes": "Yes, I am going to call Maria tonight.",
+    "no": "No, I am not going to call Maria tonight."
+  },
+  {
+    "id": 636,
+    "question": "636. Are you going to buy some shoes tomorrow?",
+    "yes": "Yes, I am going to buy some shoes tomorrow.",
+    "no": "No, I’m not going to buy any shoes tomorrow."
+  },
+  {
+    "id": 637,
+    "question": "637. Will you be here tomorrow?",
+    "yes": "Yes, I will be here tomorrow.",
+    "no": "No, I won’t be here tomorrow."
+  },
+  {
+    "id": 638,
+    "question": "638. Will Sue like her present?",
+    "yes": "Yes, Sue will like her present.",
+    "no": "No, Sue won’t like her present."
+  },
+  {
+    "id": 639,
+    "question": "639. Do you think Claire will call us tonight?",
+    "yes": "Yes, Claire will call us tonight.",
+    "no": "No, Claire will not call us tonight."
+  },
+  {
+    "id": 640,
+    "question": "640. Will you probably be in bed?",
+    "yes": "Yes, I will probably be in bed.",
+    "no": "No, I will not be in bed probably."
+  },
+  {
+    "id": 641,
+    "question": "641. Do you think I will like the movie?",
+    "yes": "Yes, I think you will like the movie.",
+    "no": "No, I think you won’t like the movie."
+  },
+  {
+    "id": 642,
+    "question": "642. Do you think the test will be difficult?",
+    "yes": "Yes, I think the test will be difficult.",
+    "no": "No, I think the test will not be difficult."
+  },
+  {
+    "id": 643,
+    "question": "643. I don’t know. Where will I be?",
+    "yes": "Maybe, you will be in …. (Ex) class.",
+    "no": ""
+  },
+  {
+    "id": 644,
+    "question": "644. I like this hat. Do you think I’ll buy it?",
+    "yes": "Yes, you will buy it.",
+    "no": "No, you won’t buy it."
+  },
+  {
+    "id": 645,
+    "question": "645. Will you do anything this evening?",
+    "yes": "Yes, I will do something this evening.",
+    "no": "No, I will do nothing this evening."
+  },
+  {
+    "id": 646,
+    "question": "646. Will you watch a lot of sports on TV?",
+    "yes": "Yes, I will watch a lot of sports matches on TV.",
+    "no": "No, I won’t watch many sports matches on TV."
+  },
+  {
+    "id": 647,
+    "question": "647. Is Gerry going to buy a new car?",
+    "yes": "Yes, Gerry is going to buy a new car.",
+    "no": "No, Gerry is not going to buy a new car."
+  },
+  {
+    "id": 648,
+    "question": "648. Should I turn on the light?",
+    "yes": "Yes, you should turn on the light.",
+    "no": "No, you shouldn’t turn on the light."
+  },
+  {
+    "id": 649,
+    "question": "649. Where should we go?",
+    "yes": "We should go to the airport.",
+    "no": ""
+  },
+  {
+    "id": 650,
+    "question": "650. Should I get some lottery tickets?",
+    "yes": "Yes, you should get some lottery tickets.",
+    "no": "No, you should not get any lottery tickets."
+  },
+  {
+    "id": 651,
+    "question": "651. It might snow today, right?",
+    "yes": "Yes, it might snow today.",
+    "no": "No, it might not snow today."
+  },
+  {
+    "id": 652,
+    "question": "652. Mark might be here next week, right?",
+    "yes": "Yes, Mark might be here next week.",
+    "no": "No, Mark might not be here next week."
+  },
+  {
+    "id": 653,
+    "question": "653. He might go shopping, right?",
+    "yes": "Yes, he might go shopping.",
+    "no": "No, he might not go shopping."
+  },
+  {
+    "id": 654,
+    "question": "654. May I take a taxi?",
+    "yes": "Yes, you may take a taxi.",
+    "no": "No, you may not take a taxi."
+  },
+  {
+    "id": 655,
+    "question": "655. Can you play a computer game?",
+    "yes": "Yes, I can play a computer game.",
+    "no": "No, I can’t play a computer game."
+  },
+  {
+    "id": 656,
+    "question": "656. Could you pass the salt?",
+    "yes": "Yes, I can pass the salt.",
+    "no": "No, I can’t pass the salt."
+  },
+  {
+    "id": 657,
+    "question": "657. Can you turn down the radio?",
+    "yes": "Yes, I can turn down the radio.",
+    "no": "No, I can’t turn down the radio."
+  },
+  {
+    "id": 658,
+    "question": "658. Can I drive a car?",
+    "yes": "Yes, you can drive a car.",
+    "no": "No, you can’t drive a car."
+  },
+  {
+    "id": 659,
+    "question": "659. Brandon is very thin. He must eat a lot, right?",
+    "yes": "Yes, he must eat a lot.",
+    "no": "No, he doesn’t need to eat much."
+  },
+  {
+    "id": 660,
+    "question": "660. You must be in the kitchen, right?",
+    "yes": "Yes, I must be in the kitchen.",
+    "no": "No, I do not need to be in the kitchen."
+  },
+  {
+    "id": 661,
+    "question": "661. He must leave for work very early, right?",
+    "yes": "Yes, he must leave for work very early.",
+    "no": "No, he doesn’t need to leave for work very early."
+  },
+  {
+    "id": 662,
+    "question": "662. Should you visit the Korean History Museum?",
+    "yes": "Yes, I should visit the Korean History Museum.",
+    "no": "No, I shouldn’t visit the Korean History Museum."
+  },
+  {
+    "id": 663,
+    "question": "663. Should he drive so fast?",
+    "yes": "Yes, he should drive so fast.",
+    "no": "No, he should not drive so fast."
+  },
+  {
+    "id": 664,
+    "question": "664. Do you think I should learn to drive?",
+    "yes": "Yes, I think you should learn to drive.",
+    "no": "No, I don’t think you should learn to drive."
+  },
+  {
+    "id": 665,
+    "question": "665. Do you think I should go to work?",
+    "yes": "Yes, I think you should go to work.",
+    "no": "No, I don’t think you should go to work."
+  },
+  {
+    "id": 666,
+    "question": "666. Did we have to pay money?",
+    "yes": "Yes, we had to pay money.",
+    "no": "No, we did not have to pay money."
+  },
+  {
+    "id": 667,
+    "question": "667. Did George have to wait a long time?",
+    "yes": "Yes, George had to wait a long time.",
+    "no": "No, George did not have to wait a long time."
+  },
+  {
+    "id": 668,
+    "question": "668. Do you have to speak very slowly to him?",
+    "yes": "Yes, I have to speak very slowly to him",
+    "no": "No, I don’t have to speak very slowly to him"
+  },
+  {
+    "id": 669,
+    "question": "669. Would you like to come to a concert next week?",
+    "yes": "Yes, I would like to go to a concert next week.",
+    "no": "No, I would not like to go to a concert next week."
+  },
+  {
+    "id": 670,
+    "question": "670. Would you rather study philosophy?",
+    "yes": "Yes, I would rather study philosophy.",
+    "no": "No, I would rather not study philosophy."
+  },
+  {
+    "id": 671,
+    "question": "671. Would you rather watch a scary movie?",
+    "yes": "Yes, I would rather watch a scary movie.",
+    "no": "No, I would rather not watch a scary movie."
+  },
+  {
+    "id": 672,
+    "question": "672. Would you like a piece of candy?",
+    "yes": "Yes, I would like a piece of candy.",
+    "no": "No, I wouldn’t like a piece of candy."
+  },
+  {
+    "id": 673,
+    "question": "673. Should we have a meal?",
+    "yes": "Yes, let’s have a meal.",
+    "no": "No, let’s not have a meal."
+  },
+  {
+    "id": 674,
+    "question": "674. Should we take a taxi?",
+    "yes": "Yes, let’s take a taxi.",
+    "no": "No, let’s not take a taxi."
+  },
+  {
+    "id": 675,
+    "question": "675. Let’s watch TV. Shall we?",
+    "yes": "Yes, let’s watch TV together.",
+    "no": "No, let’s not watch TV."
+  },
+  {
+    "id": 676,
+    "question": "676. Is there a hospital?",
+    "yes": "Yes, there is a hospital.",
+    "no": "No, there isn’t a hospital."
+  },
+  {
+    "id": 677,
+    "question": "677. Isn’t there a swimming pool?",
+    "yes": "Yes, there is a swimming pool.",
+    "no": "No, there isn’t a swimming pool."
+  },
+  {
+    "id": 678,
+    "question": "678. Is there a university?",
+    "yes": "Yes, there is a university.",
+    "no": "No, there isn’t a university."
+  },
+  {
+    "id": 679,
+    "question": "679. Are there two movie theaters?",
+    "yes": "Yes, there are two movie theaters.",
+    "no": "No, there aren’t two movie theaters."
+  },
+  {
+    "id": 680,
+    "question": "680. Aren’t there any big hotels?",
+    "yes": "Yes, there are some big hotels.",
+    "no": "No, there aren’t any big hotels."
+  },
+  {
+    "id": 681,
+    "question": "681. Is there a school in Gangnam?",
+    "yes": "Yes, there is a school in Gangnam.",
+    "no": "No, there isn’t a school in Gangnam."
+  },
+  {
+    "id": 682,
+    "question": "682. Isn’t there an airport in Suwon?",
+    "yes": "Yes, there is an airport in Suwon.",
+    "no": "No, there isn’t an airport in Suwon."
+  },
+  {
+    "id": 683,
+    "question": "683. Are there many factories?",
+    "yes": "Yes, there are many factories.",
+    "no": "No, there aren’t many factories."
+  },
+  {
+    "id": 684,
+    "question": "684. Is there a bank near here?",
+    "yes": "Yes, there is a bank near here.",
+    "no": "No, there isn’t a bank near here."
+  },
+  {
+    "id": 685,
+    "question": "685. Are there five people in your family?",
+    "yes": "Yes, there are five people in my family.",
+    "no": "No, there aren’t five people in my family."
+  },
+  {
+    "id": 686,
+    "question": "686. Was there a carpet?",
+    "yes": "Yes, there was a carpet.",
+    "no": "No, there wasn’t a carpet."
+  },
+  {
+    "id": 687,
+    "question": "687. Were there three pictures?",
+    "yes": "Yes, there were three pictures.",
+    "no": "No, there weren’t three pictures."
+  },
+  {
+    "id": 688,
+    "question": "688. Were there some flowers?",
+    "yes": "Yes, there were some flowers.",
+    "no": "No, there were not any flowers."
+  },
+  {
+    "id": 689,
+    "question": "689. Was there an armchair?",
+    "yes": "Yes, there was an armchair.",
+    "no": "No, there wasn’t an armchair."
+  },
+  {
+    "id": 690,
+    "question": "690. Were there any phone messages for you yesterday?",
+    "yes": "Yes, there were some phone messages for me yesterday.",
+    "no": "No, there weren’t any phone messages for me yesterday."
+  },
+  {
+    "id": 691,
+    "question": "691. Was there a good program on TV last night?",
+    "yes": "Yes, there was a good program on TV last night.",
+    "no": "No, there wasn’t a good program on TV last night."
+  },
+  {
+    "id": 692,
+    "question": "692. Are there 24 hours in a day?",
+    "yes": "Yes, there are 24 hours in a day.",
+    "no": "No, there aren’t 24 hours in a day."
+  },
+  {
+    "id": 693,
+    "question": "693. Was there a drugstore at the end of the block?",
+    "yes": "Yes, there was a drugstore at the end of the block.",
+    "no": "No, there was no drugstore at the end of the block."
+  },
+  {
+    "id": 694,
+    "question": "694. Was there a robbery?",
+    "yes": "Yes, there was a robbery.",
+    "no": "No, there wasn’t a robbery."
+  },
+  {
+    "id": 695,
+    "question": "695. Were there 500 children in the school?",
+    "yes": "Yes, there were 500 children in the school.",
+    "no": "No, there weren’t 500 children in the school."
+  },
+  {
+    "id": 696,
+    "question": "696. How far is it from New York to Washington?",
+    "yes": "It is about …. (Ex) 2000 miles.",
+    "no": "I don’t know how far it is from New York to Washington."
+  },
+  {
+    "id": 697,
+    "question": "697. Is it impossible to work in this office?",
+    "yes": "Yes, it’s impossible to work in this office.",
+    "no": "No, it’s not impossible to work in this office."
+  },
+  {
+    "id": 698,
+    "question": "698. Is it dangerous to go out alone?",
+    "yes": "Yes, it is dangerous to go out alone.",
+    "no": "No, it is not dangerous to go out alone."
+  },
+  {
+    "id": 699,
+    "question": "699. Is it snowing?",
+    "yes": "Yes, it’s snowing.",
+    "no": "No, it’s not snowing."
+  },
+  {
+    "id": 700,
+    "question": "700. Is it easy to make friends?",
+    "yes": "Yes, it’s easy to make friends.",
+    "no": "No, it’s not easy to make friends."
+  },
+  {
+    "id": 701,
+    "question": "701. Has Kate seen that movie?",
+    "yes": "Yes, Kate has seen that movie.",
+    "no": "No, Kate hasn’t seen that movie."
+  },
+  {
+    "id": 702,
+    "question": "702. Will you be here tomorrow?",
+    "yes": "Yes, I will be here tomorrow.",
+    "no": "No, I won’t be here tomorrow."
+  },
+  {
+    "id": 703,
+    "question": "703. Is Paul going out tonight?",
+    "yes": "Yes, Paul is going out tonight.",
+    "no": "No, Paul is not going out tonight."
+  },
+  {
+    "id": 704,
+    "question": "704. Does Daniel live near here?",
+    "yes": "Yes, Daniel lives near here.",
+    "no": "No, Daniel doesn’t live near here."
+  },
+  {
+    "id": 705,
+    "question": "705. Did you have a good time with your family yesterday?",
+    "yes": "Yes, I had a good time with my family yesterday.",
+    "no": "No, I didn’t have a good time with my family yesterday."
+  },
+  {
+    "id": 706,
+    "question": "706. Do you enjoy snowboarding?",
+    "yes": "Yes, I enjoy snowboarding.",
+    "no": "No, I don’t enjoy snowboarding."
+  },
+  {
+    "id": 707,
+    "question": "707. Are you a good driver?",
+    "yes": "Yes, I am a good driver.",
+    "no": "No, I am not a good driver."
+  },
+  {
+    "id": 708,
+    "question": "708. What are the children doing?",
+    "yes": "The children are playing soccer.",
+    "no": ""
+  },
+  {
+    "id": 709,
+    "question": "709. What does this word mean?",
+    "yes": "This word means …. (Ex) an apple.",
+    "no": ""
+  },
+  {
+    "id": 710,
+    "question": "710. Who wants to see me?",
+    "yes": "Daniel wants to see you.",
+    "no": ""
+  },
+  {
+    "id": 711,
+    "question": "711. What made you sick?",
+    "yes": "I got the …. (Ex) flu.",
+    "no": ""
+  },
+  {
+    "id": 712,
+    "question": "712. What did you talk about?",
+    "yes": "I talked about …. (Ex) my mother.",
+    "no": ""
+  },
+  {
+    "id": 713,
+    "question": "713. Who knows the answer?",
+    "yes": "I know the answer.",
+    "no": "I don’t know who knows it."
+  },
+  {
+    "id": 714,
+    "question": "714. Who saw the accident?",
+    "yes": "Jane saw the accident.",
+    "no": "I don’t know who saw the accident."
+  },
+  {
+    "id": 715,
+    "question": "715. Who has your pen?",
+    "yes": "Alice has my pen.",
+    "no": "I don’t know who has my pen."
+  },
+  {
+    "id": 716,
+    "question": "716. What did Daniel do?",
+    "yes": "Daniel played computer games.",
+    "no": "I don’t know what Daniel did."
+  },
+  {
+    "id": 717,
+    "question": "717. Who was the best emperor in the\nworld?",
+    "yes": "I think …. (Ex) Alexander was the best emperor in the world.",
+    "no": ""
+  },
+  {
+    "id": 718,
+    "question": "718. What are they looking at?",
+    "yes": "They are looking at the board.",
+    "no": "They are not looking at anything."
+  },
+  {
+    "id": 719,
+    "question": "719. Which bus are they waiting for?",
+    "yes": "They are waiting for the no.420 bus.",
+    "no": "They are not waiting for any bus."
+  },
+  {
+    "id": 720,
+    "question": "720. What is the weather like?",
+    "yes": "The weather is …. (Ex) windy.",
+    "no": ""
+  },
+  {
+    "id": 721,
+    "question": "721. How heavy is this box?",
+    "yes": "This box is …. (Ex) 25 kg.",
+    "no": "I don’t know how heavy this box is."
+  },
+  {
+    "id": 722,
+    "question": "722. How long did it take you to learn to ski?",
+    "yes": "It took me …. (Ex) an hour to learn to ski.",
+    "no": ""
+  },
+  {
+    "id": 723,
+    "question": "723. Do you know what time the bus leaves?",
+    "yes": "I know the bus will leave 5 minutes later.",
+    "no": "I don’t know what time the bus leaves."
+  },
+  {
+    "id": 724,
+    "question": "724. Do you know how much it costs to rent a car?",
+    "yes": "I know that it costs …. (Ex) $30 to rent a car.",
+    "no": ""
+  },
+  {
+    "id": 725,
+    "question": "725. Do you know where Paula is?",
+    "yes": "I know Paula is …. (Ex) at home.",
+    "no": "I don’t know where Paula is."
+  },
+  {
+    "id": 726,
+    "question": "726. Are Tom and Sue going to a party?",
+    "yes": "Yes, Tom and Sue are going to a party.",
+    "no": "No, Tom and Sue aren’t going to a party."
+  },
+  {
+    "id": 727,
+    "question": "727. Are there five players on a basketball team?",
+    "yes": "Yes, there are five players on a basketball team.",
+    "no": "No, there aren’t five players on a basketball team."
+  },
+  {
+    "id": 728,
+    "question": "728. Is Silvia taking an English course this semester?",
+    "yes": "Yes, Silvia is taking an English course this semester.",
+    "no": "No, Silvia is not taking an English course this semester."
+  },
+  {
+    "id": 729,
+    "question": "729. Have you ever had an accident?",
+    "yes": "Yes, I have had an accident.",
+    "no": "No, I haven’t had an accident."
+  },
+  {
+    "id": 730,
+    "question": "730. Is Karen having lunch with Ken?",
+    "yes": "Yes, Karen is having lunch with Ken.",
+    "no": "No, Karen is not having lunch with Ken."
+  },
+  {
+    "id": 731,
+    "question": "731. Was there a sofa?",
+    "yes": "Yes, there was a sofa.",
+    "no": "No, there wasn’t a sofa."
+  },
+  {
+    "id": 732,
+    "question": "732. Is your best friend coming to the party?",
+    "yes": "Yes, my best friend is coming to the party.",
+    "no": "No, my best friend is not coming to the party."
+  },
+  {
+    "id": 733,
+    "question": "733. Are you going to get up early tomorrow?",
+    "yes": "Yes, I am going to get up early tomorrow.",
+    "no": "No, I am not going to get up early tomorrow."
+  },
+  {
+    "id": 734,
+    "question": "734. How much money do you need?",
+    "yes": "I need …. (Ex) $10000.",
+    "no": ""
+  },
+  {
+    "id": 735,
+    "question": "735. Do you think I’ll play soccer?",
+    "yes": "Yes, I think you will play soccer.",
+    "no": "No, I don’t think you will play soccer."
+  },
+  {
+    "id": 736,
+    "question": "736. What happened last night?",
+    "yes": "You fell down and got hurt.",
+    "no": ""
+  },
+  {
+    "id": 737,
+    "question": "737. Are we going to drink soda?",
+    "yes": "Yes, we are going to drink soda. No, we aren’t going to drink soda.",
+    "no": ""
+  },
+  {
+    "id": 738,
+    "question": "738. Is it nice to see me again?",
+    "yes": "Yes, it’s nice to see you again.",
+    "no": "No, it’s not nice to see you again."
+  },
+  {
+    "id": 739,
+    "question": "739. What kind of car do you want?",
+    "yes": "I want to buy …. (Ex) a sedan.",
+    "no": ""
+  },
+  {
+    "id": 740,
+    "question": "740. Am I going to the concert on Sunday?",
+    "yes": "Yes, you are going to the concert on Sunday.",
+    "no": "No, you aren’t going to the concert on Sunday."
+  },
+  {
+    "id": 741,
+    "question": "741. Would you like to have dinner with me?",
+    "yes": "Yes, I would like to have dinner with you.",
+    "no": "No, I wouldn’t like to have dinner with you."
+  },
+  {
+    "id": 742,
+    "question": "742. You must be very happy.",
+    "yes": "Yes, I must be very happy.",
+    "no": "No, I must not be very happy."
+  },
+  {
+    "id": 743,
+    "question": "743. Do I have to go to church on Sunday?",
+    "yes": "Yes, you have to go to church on Sunday.",
+    "no": "No, you don’t need to go to church on Sunday."
+  },
+  {
+    "id": 744,
+    "question": "744. Whom/who was the book written by?",
+    "yes": "The book was written by 김소장.",
+    "no": ""
+  },
+  {
+    "id": 745,
+    "question": "745. How heavy is this stone?",
+    "yes": "This stone is so heavy to carry.",
+    "no": "I don’t know how heavy this stone is."
+  },
+  {
+    "id": 746,
+    "question": "746. Do you know where Daniel and Jane live?",
+    "yes": "Yes, I know where Daniel and Jane live.",
+    "no": "No, I don’t know where Daniel and Jane live."
+  },
+  {
+    "id": 747,
+    "question": "747. Who’s coming?",
+    "yes": "My grandfather is coming.",
+    "no": "I don’t know who is coming."
+  },
+  {
+    "id": 748,
+    "question": "748. Have your guests arrived yet?",
+    "yes": "Yes, my guests have arrived.",
+    "no": "No, my guests haven’t arrived yet."
+  },
+  {
+    "id": 749,
+    "question": "749. He must take a trip, right?",
+    "yes": "Yes, he must take a trip.",
+    "no": "No, he must not take a trip."
+  },
+  {
+    "id": 750,
+    "question": "750. What’s the capital of South Korea?",
+    "yes": "The capital of South Korea is Seoul.",
+    "no": ""
+  },
+  {
+    "id": 751,
+    "question": "751. Did she say she could go to the party?",
+    "yes": "Yes, she said that she could go to the party.",
+    "no": "No, she didn’t’ say that she could go to the party."
+  },
+  {
+    "id": 752,
+    "question": "752. Did he say he wanted to watch TV?",
+    "yes": "Yes, he said that he wanted to watch TV.",
+    "no": "No, he didn’t say that he wanted to watch TV."
+  },
+  {
+    "id": 753,
+    "question": "753. Look at that plane! Is it flying very low?",
+    "yes": "Yes, it’s flying very low.",
+    "no": "No, it isn’t flying very low."
+  },
+  {
+    "id": 754,
+    "question": "754. Do you want to call Paul?",
+    "yes": "Yes, I want to call Paul.",
+    "no": "No, I don’t want to call Paul."
+  },
+  {
+    "id": 755,
+    "question": "755. Do you like cooking?",
+    "yes": "Yes, I like cooking.",
+    "no": "No, I don’t like cooking."
+  },
+  {
+    "id": 756,
+    "question": "756. Do you mind traveling alone?",
+    "yes": "Yes, I mind traveling alone.",
+    "no": "No, I don’t mind traveling alone."
+  },
+  {
+    "id": 757,
+    "question": "757. Do you want to listen carefully?",
+    "yes": "Yes, I want to listen carefully.",
+    "no": "No, I don’t want to listen carefully."
+  },
+  {
+    "id": 758,
+    "question": "758. Do you want me to wait for you?",
+    "yes": "Yes, I want you to wait for me.",
+    "no": "No, I don’t want you to wait for me."
+  },
+  {
+    "id": 759,
+    "question": "759. Did you tell him to come back in 10 minutes?",
+    "yes": "Yes, I told him to come back in 10 minutes.",
+    "no": "No, I didn’t tell him to come back in 10 minutes."
+  },
+  {
+    "id": 760,
+    "question": "760. Did you advise him to go to the doctor?",
+    "yes": "Yes, I advised him to go to the doctor.",
+    "no": "No, I didn’t advise him to go to the doctor."
+  },
+  {
+    "id": 761,
+    "question": "761. Did you go to a coffee shop to meet a friend?",
+    "yes": "Yes, I went to a coffee shop to meet a friend.",
+    "no": "No, I didn’t go to a coffee shop to meet a friend."
+  },
+  {
+    "id": 762,
+    "question": "762. Did your mom go to the drugstore to get some medicine?",
+    "yes": "Yes, my mom went to the drugstore to get some medicine.",
+    "no": "No, my mom didn’t go to the drugstore to get some medicine."
+  },
+  {
+    "id": 763,
+    "question": "763. Did you get up late this morning?",
+    "yes": "Yes, I got up late this morning.",
+    "no": "No, I didn’t get up late this morning."
+  },
+  {
+    "id": 764,
+    "question": "764. Did you borrow some money to buy a car?",
+    "yes": "Yes, I borrowed some money to buy a car.",
+    "no": "No, I didn’t borrow any money to buy a car."
+  },
+  {
+    "id": 765,
+    "question": "765. Are you tired because you went to bed very late last night?",
+    "yes": "Yes, I’m tired because I went to bed very late last night.",
+    "no": "No, I’m not tired because I went to bed very early."
+  },
+  {
+    "id": 766,
+    "question": "766. It’s late. Do you have to go home now?",
+    "yes": "Yes, I have to go home now.",
+    "no": "No, I don’t have to go home now."
+  },
+  {
+    "id": 767,
+    "question": "767. Do you want to go out for dinner this\nevening?",
+    "yes": "Yes, I want to go out for dinner this evening.",
+    "no": "No, I don’t’ want to go out for dinner this evening."
+  },
+  {
+    "id": 768,
+    "question": "768. Margaret has a well-paid job. Does she\nget a good salary?",
+    "yes": "Yes, she gets a good salary.",
+    "no": "No, she doesn’t get a good salary."
+  },
+  {
+    "id": 769,
+    "question": "769. The weather is horrible here in winter.\nDo you get a lot of rain?",
+    "yes": "Yes, we get a lot of rain.",
+    "no": "No, we don’t get a lot of rain."
+  },
+  {
+    "id": 770,
+    "question": "770. It’s getting late. Is it time to go home?",
+    "yes": "Yes, it’s time to go home.",
+    "no": "No, It’s not time to go home."
+  },
+  {
+    "id": 771,
+    "question": "771. Is she washing the dishes?",
+    "yes": "Yes, she is washing the dishes.",
+    "no": "No, she isn’t washing the dishes."
+  },
+  {
+    "id": 772,
+    "question": "772. Is he making a shopping list?",
+    "yes": "Yes, he is making a shopping list.",
+    "no": "No, he isn’t making a shopping list."
+  },
+  {
+    "id": 773,
+    "question": "773. Are they having an argument?",
+    "yes": "Yes, they’re having an argument.",
+    "no": "No, they aren’t having an argument."
+  },
+  {
+    "id": 774,
+    "question": "774. Did you have a nice experience\ntraveling?",
+    "yes": "Yes, I had a nice experience traveling.",
+    "no": "No, I didn’t have a nice experience traveling."
+  },
+  {
+    "id": 775,
+    "question": "775. Is Rachel going to have a baby?",
+    "yes": "Yes, Rachel is going to have a baby.",
+    "no": "No, Rachel isn’t going to have a baby."
+  },
+  {
+    "id": 776,
+    "question": "776. When you saw him, was he by himself?",
+    "yes": "Yes, he was by himself.",
+    "no": "No, he wasn’t by himself."
+  },
+  {
+    "id": 777,
+    "question": "777. Do you want to go out by yourself?",
+    "yes": "Yes, I want to go out by myself.",
+    "no": "No, I don’t want to go out by myself."
+  },
+  {
+    "id": 778,
+    "question": "778. Whose camera is this?",
+    "yes": "It’s my mom’s.",
+    "no": "It’s Julie’s."
+  },
+  {
+    "id": 779,
+    "question": "779. Why are you looking at her?",
+    "yes": "I’m looking at her because she is pretty.",
+    "no": "I’m looking at her because she is my girlfriend."
+  },
+  {
+    "id": 780,
+    "question": "780. Are the children doing their homework?",
+    "yes": "Yes, the children are doing their homework.",
+    "no": "No, the children aren’t doing their homework."
+  },
+  {
+    "id": 781,
+    "question": "781. Are you going to wash your hands?",
+    "yes": "Yes, I’m going to wash my hands.",
+    "no": "No, I’m not going to wash my hands."
+  },
+  {
+    "id": 782,
+    "question": "782. Does he live with his parents?",
+    "yes": "Yes, he lives with his parents.",
+    "no": "No, he doesn’t live with his parents."
+  },
+  {
+    "id": 783,
+    "question": "783. Did you see Sarah with her husband?",
+    "yes": "Yes, I saw Sarah with her husband.",
+    "no": "No, I didn’t’ see Sarah with her husband."
+  },
+  {
+    "id": 784,
+    "question": "784. Is Tom going to meet a friend of his?",
+    "yes": "Yes, Tom is going to meet a friend of his.",
+    "no": "No, Tom isn’t going to meet a friend of his."
+  },
+  {
+    "id": 785,
+    "question": "785. Whose books are these?",
+    "yes": "They are my mom’s.",
+    "no": "They are Julie’s"
+  },
+  {
+    "id": 786,
+    "question": "786. Whose car is this?",
+    "yes": "It’s my mom’s",
+    "no": "It’s Julie’s."
+  },
+  {
+    "id": 787,
+    "question": "787. Why don’t you come with us?",
+    "yes": "Ok, I’ll come with you.",
+    "no": "No, I won’t come with you."
+  },
+  {
+    "id": 788,
+    "question": "788. Do you see your neighbors much?",
+    "yes": "Yes, I see my neighbors a lot.",
+    "no": "No, I don’t see my neighbors much."
+  },
+  {
+    "id": 789,
+    "question": "789. Did we invite her to stay with us at our house?",
+    "yes": "Yes, we invited her to stay with us at our house.",
+    "no": "No, we didn’t invite her to stay with us at our house."
+  },
+  {
+    "id": 790,
+    "question": "790. Did you give him your address?",
+    "yes": "Yes, I gave him my address.",
+    "no": "No, I didn’t give him my address."
+  },
+  {
+    "id": 791,
+    "question": "791. Did they give each other presents?",
+    "yes": "Yes, they gave each other presents.",
+    "no": "No, they didn’t give each other presents."
+  },
+  {
+    "id": 792,
+    "question": "792. Did you go to the movies by yourself?",
+    "yes": "Yes, I went to the movies by myself.",
+    "no": "No, I didn’t go to the movies by myself."
+  },
+  {
+    "id": 793,
+    "question": "793. Do they know each other?",
+    "yes": "Yes, they know each other.",
+    "no": "No, they don’t know each other."
+  },
+  {
+    "id": 794,
+    "question": "794. Are they sitting next to each other?",
+    "yes": "Yes, they are sitting next to each other.",
+    "no": "No, they aren’t sitting next to each other."
+  },
+  {
+    "id": 795,
+    "question": "795. Do Paul and you live near each other?",
+    "yes": "Yes, Paul and I live near each other.",
+    "no": "No, Paul and I don’t live near each other."
+  },
+  {
+    "id": 796,
+    "question": "796. Is the manager of the hotel here right now?",
+    "yes": "Yes, the manager of the hotel is here right now.",
+    "no": "No, the manager of the hotel isn’t here right now."
+  },
+  {
+    "id": 797,
+    "question": "797. Are the walls of this house very thin?",
+    "yes": "Yes, the walls of this house are very thin.",
+    "no": "No, the walls of this house aren’t very thin."
+  },
+  {
+    "id": 798,
+    "question": "798. Do you like the color of this coat?",
+    "yes": "Yes, I like the color of this coat.",
+    "no": "No, I don’t like the color of this coat."
+  },
+  {
+    "id": 799,
+    "question": "799. Did you stay at your sister’s house?",
+    "yes": "Yes, I stayed at my sister’s house.",
+    "no": "No, I didn’t stay at my sister’s house."
+  },
+  {
+    "id": 800,
+    "question": "800. Is Julia Daniel’s mother?",
+    "yes": "Yes, Julia is Daniel’s mother.",
+    "no": "No, Julia isn’t Daniel’s mother."
+  },
+  {
+    "id": 801,
+    "question": "801. Can you ride a bicycle?",
+    "yes": "Yes, I can ride a bicycle.",
+    "no": "No, I can’t ride a bicycle."
+  },
+  {
+    "id": 802,
+    "question": "802. Does Jane want to learn a foreign\nlanguage?",
+    "yes": "Yes, Jane wants to learn a foreign language.",
+    "no": "No, Jane doesn’t want to learn a foreign language."
+  },
+  {
+    "id": 803,
+    "question": "803. Does Tom always wear a hat?",
+    "yes": "Yes, Tom always wears a hat.",
+    "no": "No, Tom never wears a hat."
+  },
+  {
+    "id": 804,
+    "question": "804. Are the leaves falling from the tree?",
+    "yes": "Yes, the leaves are falling from the tree.",
+    "no": "No, the leaves aren’t falling from the tree."
+  },
+  {
+    "id": 805,
+    "question": "805. Are there a lot of sheep in the field?",
+    "yes": "Yes, there are a lot of sheep in the field.",
+    "no": "No, there aren’t a lot of sheep in the field."
+  },
+  {
+    "id": 806,
+    "question": "806. Is Montreal usually full of tourists?",
+    "yes": "Yes, Montreal is usually full of tourists.",
+    "no": "No, Montreal isn’t usually full of tourists."
+  },
+  {
+    "id": 807,
+    "question": "807. Did he put on his pajamas and go to bed?",
+    "yes": "Yes, he put on his pajamas and went to bed.",
+    "no": "No, he didn’t put on his pajamas and went to bed"
+  },
+  {
+    "id": 808,
+    "question": "808. Are most of your friends students?",
+    "yes": "Yes, most of my friends are students.",
+    "no": "No, most of my friends aren’t students."
+  },
+  {
+    "id": 809,
+    "question": "809. Are we going to buy some new furniture?",
+    "yes": "Yes, we’re going to buy some new furniture.",
+    "no": "No, we aren’t going to buy any new furniture."
+  },
+  {
+    "id": 810,
+    "question": "810. Did the tour guide give us some information about the city?",
+    "yes": "Yes, the tour guide gave us some information about the city.",
+    "no": "No, the tour guide didn’t give us any information about the city."
+  },
+  {
+    "id": 811,
+    "question": "811. Can you pass me the dictionary, please?",
+    "yes": "Yes, I can pass you the dictionary.",
+    "no": "No, I can’t pass you the dictionary."
+  },
+  {
+    "id": 812,
+    "question": "812. Do you use the Internet much?",
+    "yes": "Yes, I use the internet a lot.",
+    "no": "No, I don’t use the internet much."
+  },
+  {
+    "id": 813,
+    "question": "813. Is dinner ready?",
+    "yes": "Yes, dinner is ready!",
+    "no": "No, dinner isn’t ready."
+  },
+  {
+    "id": 814,
+    "question": "814. Did we have dinner at a restaurant last night?",
+    "yes": "Yes, we had dinner at a restaurant last night.",
+    "no": "No, we didn’t have dinner at a restaurant last night."
+  },
+  {
+    "id": 815,
+    "question": "815. What did you learn at school today?",
+    "yes": "I learned English at school today.",
+    "no": "I learned math at school today."
+  },
+  {
+    "id": 816,
+    "question": "816. Will you be in class until 5:00 today?",
+    "yes": "Yes, I’ll be in class until 5:00 today.",
+    "no": "No, I won’t be in class until 5:00 today."
+  },
+  {
+    "id": 817,
+    "question": "817. Do children start school at the age of seven?",
+    "yes": "Yes, children start school at the age of seven.",
+    "no": "No, children don’t start school at the age of seven."
+  },
+  {
+    "id": 818,
+    "question": "818. Does David go to church on Sundays?",
+    "yes": "Yes, David usually goes to church on Sundays.",
+    "no": "No, David doesn’t usually go to church on Sundays."
+  },
+  {
+    "id": 819,
+    "question": "819. Do you know a little about economics?",
+    "yes": "Yes, I know a little about economics.",
+    "no": "No, I don’t know much about economics."
+  },
+  {
+    "id": 820,
+    "question": "820. Do you know much about art?",
+    "yes": "Yes, I know a lot about art.",
+    "no": "No, I don’t know much about art."
+  },
+  {
+    "id": 821,
+    "question": "821. Are vegetables good for me?",
+    "yes": "Yes, vegetables are good for you.",
+    "no": "No, vegetables aren’t good for you."
+  },
+  {
+    "id": 822,
+    "question": "822. Is your favorite sport football?",
+    "yes": "Yes, my favorite sport is football.",
+    "no": "No, my favorite sport isn’t football."
+  },
+  {
+    "id": 823,
+    "question": "823. Are Alps mountains in central Europe?",
+    "yes": "Yes, Alps are mountains in central Europe.",
+    "no": "No, Alps aren’t mountains in central Europe."
+  },
+  {
+    "id": 824,
+    "question": "824. Is Sweden a country in northern Europe?",
+    "yes": "Yes, Sweden is a country in northern Europe.",
+    "no": "No, Sweden isn’t a country in northern Europe."
+  },
+  {
+    "id": 825,
+    "question": "825. Is the Atlantic between Africa and\nAmerica?",
+    "yes": "Yes, the Atlantic is between Africa and America.",
+    "no": "No, the Atlantic isn’t between Africa and America."
+  },
+  {
+    "id": 826,
+    "question": "826. Does Chris know everything about\ncomputers?",
+    "yes": "Yes, Chris knows everything about them.",
+    "no": "No, Chris doesn’t know everything about them."
+  },
+  {
+    "id": 827,
+    "question": "827. Do you have everything you need?",
+    "yes": "Yes, I have everything I need.",
+    "no": "No, I don’t have everything I need."
+  },
+  {
+    "id": 828,
+    "question": "828. Is there anywhere to park?",
+    "yes": "Yes, there are some places to park.",
+    "no": "No, there’s nowhere to park."
+  },
+  {
+    "id": 829,
+    "question": "829. Is there something interesting on television tonight?",
+    "yes": "Yes, there’s something interesting on television tonight.",
+    "no": "No, there isn’t anything interesting on television tonight."
+  },
+  {
+    "id": 830,
+    "question": "830. Do you want to live somewhere warm?",
+    "yes": "Yes, I want to live somewhere warm.",
+    "no": "No, I don’t want to live anywhere warm."
+  },
+  {
+    "id": 831,
+    "question": "831. Do you remember anything?",
+    "yes": "Yes, I can remember something.",
+    "no": "No, I can’t remember anything."
+  },
+  {
+    "id": 832,
+    "question": "832. Are you going to sell your car and buy a new one?",
+    "yes": "Yes, I’m going to sell my car and buy a new one.",
+    "no": "No, I’m not going to sell my car and buy a new one."
+  },
+  {
+    "id": 833,
+    "question": "833. Do you know anything about politics?",
+    "yes": "Yes, I know a little about politics.",
+    "no": "No, I don’t know much about politics."
+  },
+  {
+    "id": 834,
+    "question": "834. Is there anything in your eye?",
+    "yes": "Yes, there’s something in my eye.",
+    "no": "No, there isn’t anything in my eye."
+  },
+  {
+    "id": 835,
+    "question": "835. Was everything OK? Were there any problems?",
+    "yes": "Everything was OK. There were no problems.",
+    "no": "Everything wasn’t ok. There were some problems."
+  },
+  {
+    "id": 836,
+    "question": "836. Was the weather cold? And was there\nany wind?",
+    "yes": "Yes, the weather was cold, but there was no wind.",
+    "no": "No, the weather wasn’t cold and there wasn’t any wind."
+  },
+  {
+    "id": 837,
+    "question": "837. Do you know anything about\ncomputers?",
+    "yes": "Yes, I know a lot about them.",
+    "no": "No, I don’t know much about them."
+  },
+  {
+    "id": 838,
+    "question": "838. It’s dark. Can you see anything?",
+    "yes": "Yes, I can see something.",
+    "no": "No, I can’t see anything."
+  },
+  {
+    "id": 839,
+    "question": "839. Do we take a vacation every summer?",
+    "yes": "Yes, we take a vacation every summer.",
+    "no": "No, we don’t take a vacation every summer."
+  },
+  {
+    "id": 840,
+    "question": "840. Did every student in the class pass the exam?",
+    "yes": "Yes, every student in the class passed the exam.",
+    "no": "No, every student in the class didn’t pass the exam."
+  },
+  {
+    "id": 841,
+    "question": "841. Are all of the hotels full?",
+    "yes": "Yes, all of the hotels are full.",
+    "no": "No, all of the hotels aren’t full."
+  },
+  {
+    "id": 842,
+    "question": "842. Has he lost all his money?",
+    "yes": "Yes, he’s lost all his money.",
+    "no": "No, he hasn’t lost all his money."
+  },
+  {
+    "id": 843,
+    "question": "843. Is some of this money mine?",
+    "yes": "Yes, some of this money is yours.",
+    "no": "No, some of this money isn’t yours."
+  },
+  {
+    "id": 844,
+    "question": "844. Did you like both cities very much?",
+    "yes": "Yes, I liked both cities very much.",
+    "no": "No, I didn’t like both cities very much."
+  },
+  {
+    "id": 845,
+    "question": "845. How many players are there on a football team?",
+    "yes": "There are 11 players on a football team.",
+    "no": "I don’t know how many players are on a football team."
+  },
+  {
+    "id": 846,
+    "question": "846. How much bread did you buy?",
+    "yes": "I bought 1 loaf of bread.",
+    "no": "I bought 2 loaves of bread."
+  },
+  {
+    "id": 847,
+    "question": "847. How much milk should I get at the\nstore?",
+    "yes": "You should get a carton of milk at the store.",
+    "no": "You should get 2 cartons of milk at the store."
+  },
+  {
+    "id": 848,
+    "question": "848. Does he use his car often?",
+    "yes": "Yes, he often uses his car.",
+    "no": "No, he doesn’t use his car much."
+  },
+  {
+    "id": 849,
+    "question": "849. Can I ask a few questions?",
+    "yes": "Yes, you can ask me a few questions.",
+    "no": "No, you can’t ask me any questions."
+  },
+  {
+    "id": 850,
+    "question": "850. Are we going away for a few days next week?",
+    "yes": "Yes, we’re going away for a few days next week.",
+    "no": "No, we aren’t going away for a few days next week."
+  },
+  {
+    "id": 851,
+    "question": "851. Do we have anything for dinner?",
+    "yes": "Yes, we have something for dinner.",
+    "no": "No, we don’t have anything for dinner."
+  },
+  {
+    "id": 852,
+    "question": "852. Is Hawaii an island in the Pacific?",
+    "yes": "Yes, Hawaii is an island in the Pacific.",
+    "no": "No, Hawaii isn’t an island in the Pacific."
+  },
+  {
+    "id": 853,
+    "question": "853. Did he tell you that he was tired?",
+    "yes": "Yes, he told me that he was tired.",
+    "no": "No, he didn’t tell me that he was tired."
+  },
+  {
+    "id": 854,
+    "question": "854. Did Steve say that he would call you?",
+    "yes": "Yes, Steve said that he would call me.",
+    "no": "No, Steve didn’t say that he would call me."
+  },
+  {
+    "id": 855,
+    "question": "855. Are you staying here? Are you going anywhere?",
+    "yes": "Yes, I’m staying here. I’m not going anywhere.",
+    "no": "No, I’m not staying here. I’m going somewhere."
+  },
+  {
+    "id": 856,
+    "question": "856. Do you live far from the airport?",
+    "yes": "Yes, I live far from the airport.",
+    "no": "No, I don’t live far from the airport."
+  },
+  {
+    "id": 857,
+    "question": "857. Would you like some information about hotels in Canada?",
+    "yes": "Yes, I’d like some information about hotels in Canada.",
+    "no": "No, I wouldn’t like any information about hotels in Canada."
+  },
+  {
+    "id": 858,
+    "question": "858. Did we see the beginning of the movie?",
+    "yes": "Yes, we saw the beginning of the movie.",
+    "no": "No, we didn’t see the beginning of the movie."
+  },
+  {
+    "id": 859,
+    "question": "859. Are Daniel and Shane studying in the\nsame school?",
+    "yes": "Yes, they are studying in the same school.",
+    "no": "No, they aren’t studying in the same school."
+  },
+  {
+    "id": 860,
+    "question": "860. Does every country have a national flag?",
+    "yes": "Yes, every country has a national flag.",
+    "no": "No, every country doesn’t have a national flag."
+  },
+  {
+    "id": 861,
+    "question": "861. Is the table in the middle of the room?",
+    "yes": "Yes, the table is in the middle of the room.",
+    "no": "No, the table isn’t in the middle of the room."
+  },
+  {
+    "id": 862,
+    "question": "862. Whose shoes are these?",
+    "yes": "Those are my mom’s.",
+    "no": "Those are mine."
+  },
+  {
+    "id": 863,
+    "question": "863. Do you hate doing housework?",
+    "yes": "Yes, I hate doing housework.",
+    "no": "No, I don’t hate doing housework."
+  },
+  {
+    "id": 864,
+    "question": "864. Do you want an apple or a banana?",
+    "yes": "I want them both.",
+    "no": "I don’t want either of them."
+  },
+  {
+    "id": 865,
+    "question": "865. Do all of your friends live near you?",
+    "yes": "Yes, all of my friends live near me.",
+    "no": "No, none of my friends live near me."
+  },
+  {
+    "id": 866,
+    "question": "866. Do you think English is difficult?",
+    "yes": "Yes, I think English is difficult.",
+    "no": "No, I don’t think English is difficult."
+  },
+  {
+    "id": 867,
+    "question": "867. Do you want me to lend you some money?",
+    "yes": "Yes, I want you to lend me some money.",
+    "no": "No, I don’t want you to lend me any money."
+  },
+  {
+    "id": 868,
+    "question": "868. Did you tell me to be careful?",
+    "yes": "Yes, I told you to be careful.",
+    "no": "No, I didn’t tell you to be careful."
+  },
+  {
+    "id": 869,
+    "question": "869. Do you enjoy dancing?",
+    "yes": "Yes, I enjoy dancing.",
+    "no": "No, I don’t enjoy dancing."
+  },
+  {
+    "id": 870,
+    "question": "870. Paul has got two sisters. Are both of\nthem married?",
+    "yes": "Yes, both of them are married.",
+    "no": "No, none of them are married."
+  },
+  {
+    "id": 871,
+    "question": "871. Can I have some soup, please?",
+    "yes": "Yes, you can have some soup.",
+    "no": "No, you can’t have any soup."
+  },
+  {
+    "id": 872,
+    "question": "872. Did Sonia suggest going to the movies?",
+    "yes": "Yes, Sonia suggested going to the movies.",
+    "no": "No, Sonia didn’t suggest going to the movies."
+  },
+  {
+    "id": 873,
+    "question": "873. This cup is dirty. Can I have a clean\none?",
+    "yes": "Yes, you can have a clean one.",
+    "no": "No, you can’t have a clean one."
+  },
+  {
+    "id": 874,
+    "question": "874. Did you expect them to be here?",
+    "yes": "Yes, I expected them to be here.",
+    "no": "No, I didn’t expect them to be here."
+  },
+  {
+    "id": 875,
+    "question": "875. Was there some water in the bottle?",
+    "yes": "Yes, there was some water in the bottle.",
+    "no": "No, there was no water in the bottle."
+  },
+  {
+    "id": 876,
+    "question": "876. Is it too cold to go out?",
+    "yes": "Yes, it’s too cold to go out.",
+    "no": "No, it isn’t too cold to go out."
+  },
+  {
+    "id": 877,
+    "question": "877. Are they too young to get married?",
+    "yes": "Yes, they’re too young to get married.",
+    "no": "No they aren’t too young to get married."
+  },
+  {
+    "id": 878,
+    "question": "878. Is it too late to call Sue now?",
+    "yes": "Yes, it’s too late to call Sue now.",
+    "no": "No, it isn’t too late to call Sue now."
+  },
+  {
+    "id": 879,
+    "question": "879. Can you wait for them? Do you have enough time?",
+    "yes": "Yes, I can wait for them. I have enough time.",
+    "no": "No, I can’t wait for them. I don’t have enough time."
+  },
+  {
+    "id": 880,
+    "question": "880. Do we have enough bread to make sandwiches?",
+    "yes": "Yes, we have enough bread to make sandwiches.",
+    "no": "No, we don’t have enough bread to make sandwiches."
+  },
+  {
+    "id": 881,
+    "question": "881. Do you have enough time to read the\nnewspaper?",
+    "yes": "Yes, I have enough time to read the newspaper.",
+    "no": "No, I don’t have enough time to read the newspaper."
+  },
+  {
+    "id": 882,
+    "question": "882. Was it the best movie of your life?",
+    "yes": "Yes, it was the best movie of my life.",
+    "no": "No, it wasn’t the best movie of my life."
+  },
+  {
+    "id": 883,
+    "question": "883. Is she the most popular singer in the country?",
+    "yes": "Yes, she’s the most popular singer in the country.",
+    "no": "No, she isn’t the most popular singer in the country."
+  },
+  {
+    "id": 884,
+    "question": "884. Is Everest the highest mountain in the world?",
+    "yes": "Yes, Everest is the highest mountain in the world.",
+    "no": "No, Everest isn’t the highest mountain in the world."
+  },
+  {
+    "id": 885,
+    "question": "885. Is my room as big as yours?",
+    "yes": "Yes, your room is as big as mine.",
+    "no": "No, your room isn’t as big as mine."
+  },
+  {
+    "id": 886,
+    "question": "886. Did you get up as early as me?",
+    "yes": "Yes, I got up as early as you.",
+    "no": "No, I didn’t get up as early as you."
+  },
+  {
+    "id": 887,
+    "question": "887. Is he as nervous as her?",
+    "yes": "Yes, he is as nervous as her.",
+    "no": "No, he isn’t as nervous as her."
+  },
+  {
+    "id": 888,
+    "question": "888. Were we more surprised than him?",
+    "yes": "Yes, we were more surprised than him.",
+    "no": "No, we weren’t more surprised than him."
+  },
+  {
+    "id": 889,
+    "question": "889. Is Jack’s mother much younger than his father?",
+    "yes": "Yes, Jack’s mother is much younger than his father.",
+    "no": "No, Jack’s mother isn’t much younger than his father."
+  },
+  {
+    "id": 890,
+    "question": "890. Was your camera a little more expensive than mine?",
+    "yes": "Yes, my camera was a little more expensive than yours.",
+    "no": "No, my camera wasn’t a little more expensive than yours."
+  },
+  {
+    "id": 891,
+    "question": "891. Is she a better cook than you?",
+    "yes": "Yes, she’s a better cook than me.",
+    "no": "No, she isn’t a better cook than me."
+  },
+  {
+    "id": 892,
+    "question": "892. Do you want to do something more\ninteresting?",
+    "yes": "Yes, I want to do something more interesting.",
+    "no": "No, I don’t want to do anything more interesting."
+  },
+  {
+    "id": 893,
+    "question": "893. Are you more interested in history?",
+    "yes": "Yes, I’m more interested in history.",
+    "no": "No, I’m not more interested in history."
+  },
+  {
+    "id": 894,
+    "question": "894. Is my suitcase heavier than yours?",
+    "yes": "Yes, your suitcase is heavier than mine.",
+    "no": "No, your suitcase isn’t heavier than mine."
+  },
+  {
+    "id": 895,
+    "question": "895. Can you speak slowly, please?",
+    "yes": "Yes, I can speak slowly.",
+    "no": "No, I can’t speak slowly."
+  },
+  {
+    "id": 896,
+    "question": "896. Is Jane studying hard for her exams?",
+    "yes": "Yes, Jane is studying hard for her exams.",
+    "no": "No, Jane isn’t studying hard for her exams."
+  },
+  {
+    "id": 897,
+    "question": "897. Why are you always so slow?",
+    "yes": "I’m always so slow because I’m a slow learner.",
+    "no": ""
+  },
+  {
+    "id": 898,
+    "question": "898. Do I know more people than you?",
+    "yes": "Yes, you know more people than me.",
+    "no": "No, you don’t know more people than me."
+  },
+  {
+    "id": 899,
+    "question": "899. Is it a little warmer today than yesterday?",
+    "yes": "Yes, it’s a little warmer today than yesterday.",
+    "no": "No, it isn’t a little warmer today than yesterday."
+  },
+  {
+    "id": 900,
+    "question": "900. Is Joe as intelligent as he thinks?",
+    "yes": "Yes, Joe is as intelligent as he thinks.",
+    "no": "No, Joe isn’t as intelligent as he thinks."
+  },
+  {
+    "id": 901,
+    "question": "901. What’s the name of the hotel you\nstayed at?",
+    "yes": "The name of the hotel I stayed at is Hilton.",
+    "no": ""
+  },
+  {
+    "id": 902,
+    "question": "902. Who are the people you were talking\nto?",
+    "yes": "The people I was talking to were my parents.",
+    "no": ""
+  },
+  {
+    "id": 903,
+    "question": "903. Did you find the keys you were looking\nfor?",
+    "yes": "Yes, I found the keys I was looking for.",
+    "no": "No, I didn’t find the keys I was looking for."
+  },
+  {
+    "id": 904,
+    "question": "904. What’s the name of the movie you were\ntalking about?",
+    "yes": "The name of the movie I was talking about was Titanic.",
+    "no": ""
+  },
+  {
+    "id": 905,
+    "question": "905. Did you get the e-mail you were waiting for?",
+    "yes": "Yes, I got the e-mail I was waiting for.",
+    "no": "No, I didn’t get the e-mail I was waiting for."
+  },
+  {
+    "id": 906,
+    "question": "906. Where is the picture which was hanging\non the wall?",
+    "yes": "The picture which was hanging on the wall is in the closet.",
+    "no": ""
+  },
+  {
+    "id": 907,
+    "question": "907. Do you know anybody who wants to buy a car?",
+    "yes": "Yes, I know somebody who wants to buy a car.",
+    "no": "No, I don’t know anybody who wants to buy a car."
+  },
+  {
+    "id": 908,
+    "question": "908. Do I always ask questions which are\ndifficult to answer?",
+    "yes": "Yes, you always ask questions which are difficult to answer.",
+    "no": "No, you don’t ask questions which are difficult to answer."
+  },
+  {
+    "id": 909,
+    "question": "909. What would you do if you had enough\nmoney?",
+    "yes": "I’d buy a house if I had enough money.",
+    "no": ""
+  },
+  {
+    "id": 910,
+    "question": "910. Would the world be a better place if there were no guns?",
+    "yes": "Yes, the world would be a better place if there were no guns.",
+    "no": "No, the world wouldn’t be a better place even if there were no guns."
+  },
+  {
+    "id": 911,
+    "question": "911. Are you going to the concert if you can get a ticket?",
+    "yes": "Yes, I’m going to the concert if I can get a ticket.",
+    "no": "No, I’m not going to the concert even if I can get a ticket."
+  },
+  {
+    "id": 912,
+    "question": "912. If I don’t hurry, will I miss the train?",
+    "yes": "Yes, if you don’t hurry, you’ll miss the train.",
+    "no": "No, even if you don’t hurry, you won’t miss the train."
+  },
+  {
+    "id": 913,
+    "question": "913. Should I wait for you if you are late\ntonight?",
+    "yes": "Yes, you should wait for me even if I’m late.",
+    "no": "No, don’t wait for me if I’m late."
+  },
+  {
+    "id": 914,
+    "question": "914. Were they very surprised when they heard the news?",
+    "yes": "Yes, they were very surprised when they heard the news.",
+    "no": "No, they weren’t very surprised when they heard the news."
+  },
+  {
+    "id": 915,
+    "question": "915. Did they go to live in France after they got married?",
+    "yes": "Yes, they went to live in France after they got married.",
+    "no": "No, they didn’t go to live in France after they got married."
+  },
+  {
+    "id": 916,
+    "question": "916. Did somebody break into the house while we were asleep?",
+    "yes": "Yes, somebody broke into the house while we were asleep.",
+    "no": "No, nobody broke into the house while we were asleep."
+  },
+  {
+    "id": 917,
+    "question": "917. Did he open the window because it was very hot?",
+    "yes": "Yes, it was very hot, so he opened the window.",
+    "no": "No, it wasn’t very hot, but he opened the window."
+  },
+  {
+    "id": 918,
+    "question": "918. Did you stay at home and watch television?",
+    "yes": "Yes, I stayed at home and watched television.",
+    "no": "No, I didn’t stay at home and watch television."
+  },
+  {
+    "id": 919,
+    "question": "919. You bought a newspaper. Did you read it?",
+    "yes": "Yes, I bought a newspaper and I read it.",
+    "no": "No, I bought a newspaper, but I didn’t read it."
+  },
+  {
+    "id": 920,
+    "question": "920. Can you lend me an umbrella?",
+    "yes": "Yes, I can lend you an umbrella.",
+    "no": "No, I can’t lend you an umbrella."
+  },
+  {
+    "id": 921,
+    "question": "921. Can you give me your address?",
+    "yes": "Yes, I can give you my address.",
+    "no": "No, I can’t give you my address."
+  },
+  {
+    "id": 922,
+    "question": "922. Do you still play the piano?",
+    "yes": "Yes, I still play the piano.",
+    "no": "No, I don’t play the piano anymore."
+  },
+  {
+    "id": 923,
+    "question": "923. Do you still go to the movies a lot?",
+    "yes": "Yes, I still go to the movies a lot.",
+    "no": "No, I don’t go to the movies anymore."
+  },
+  {
+    "id": 924,
+    "question": "924. Do you always go to bed before\nmidnight?",
+    "yes": "Yes, I always go to bed before midnight.",
+    "no": "No I rarely go to bed before midnight."
+  },
+  {
+    "id": 925,
+    "question": "925. Did you explain the problem carefully?",
+    "yes": "Yes, I explained the problem carefully.",
+    "no": "No, I didn’t explain the problem carefully."
+  },
+  {
+    "id": 926,
+    "question": "926. Does the umbrella belong to a friend of yours?",
+    "yes": "Yes, the umbrella belongs to a friend of mine.",
+    "no": "No, the umbrella doesn’t belong to a friend of mine."
+  },
+  {
+    "id": 927,
+    "question": "927. Who’s going to take care of your dog?",
+    "yes": "My mom will take care of my dog.",
+    "no": ""
+  },
+  {
+    "id": 928,
+    "question": "928. (On the phone) Can I speak to Steven\nDavis, please?",
+    "yes": "Yes, you can speak to Steven Davis.",
+    "no": "No, you can’t speak to Steven Davis."
+  },
+  {
+    "id": 929,
+    "question": "929. Are you fed up with living here?",
+    "yes": "Yes, I’m fed up with living here.",
+    "no": "No, I’m not fed up with living here."
+  },
+  {
+    "id": 930,
+    "question": "930. Are you interested in cars?",
+    "yes": "Yes, I’m interested in cars.",
+    "no": "No, I’m not interested in cars."
+  },
+  {
+    "id": 931,
+    "question": "931. Are you very good at drawing?",
+    "yes": "Yes, I’m very good at drawing.",
+    "no": "No, I’m not very good at drawing."
+  },
+  {
+    "id": 932,
+    "question": "932. Are you afraid of the dark?",
+    "yes": "Yes, I’m afraid of the dark.",
+    "no": "No, I’m not afraid of the dark."
+  },
+  {
+    "id": 933,
+    "question": "933. Who is the woman with short hair?",
+    "yes": "The woman with short hair is my mom.",
+    "no": ""
+  },
+  {
+    "id": 934,
+    "question": "934. Are they talking about the weather?",
+    "yes": "Yes, they are talking about the weather.",
+    "no": "No, they aren’t talking about the weather."
+  },
+  {
+    "id": 935,
+    "question": "935. Is the car on fire?",
+    "yes": "Yes, the car is on fire.",
+    "no": "No, the car isn’t on fire."
+  },
+  {
+    "id": 936,
+    "question": "936. Is she listening to some music by Mozart?",
+    "yes": "Yes, she’s listening to some music by Mozart.",
+    "no": "No, she isn’t listening to any music by Mozart."
+  },
+  {
+    "id": 937,
+    "question": "937. Is the plane flying at 600 miles an hour?",
+    "yes": "Yes, the plane is flying at 600 miles an hour.",
+    "no": "No, the plane isn’t flying at 600 miles an hour."
+  },
+  {
+    "id": 938,
+    "question": "938. Do you know the man with sunglasses?",
+    "yes": "Yes, I know the man with sunglasses.",
+    "no": "No, I don’t know the man with sunglasses."
+  },
+  {
+    "id": 939,
+    "question": "939. Did they drive through the town?",
+    "yes": "Yes, they drove through the town.",
+    "no": "No, they didn’t drive through the town."
+  },
+  {
+    "id": 940,
+    "question": "940. Is the bank next to the bookstore?",
+    "yes": "Yes, the bank is next to the bookstore.",
+    "no": "No, the bank isn’t next to the bookstore."
+  },
+  {
+    "id": 941,
+    "question": "941. Is the fountain in front of the theater?",
+    "yes": "Yes, the fountain is in front of the theater.",
+    "no": "No, the fountain isn’t in front of the theater."
+  },
+  {
+    "id": 942,
+    "question": "942. Is Paul’s office above the bookstore?",
+    "yes": "Yes, Paul’s office is above the bookstore.",
+    "no": "No, Paul’s office isn’t above the bookstore."
+  },
+  {
+    "id": 943,
+    "question": "943. Are you meeting him at the airport?",
+    "yes": "Yes, I’m meeting him at the airport.",
+    "no": "No, I’m not meeting him at the airport."
+  },
+  {
+    "id": 944,
+    "question": "944. Will you call me in three days?",
+    "yes": "Yes, I’ll call you in three days.",
+    "no": "No, I won’t call you in three days."
+  },
+  {
+    "id": 945,
+    "question": "945. Is your exam in two weeks?",
+    "yes": "Yes, my exam is in two weeks.",
+    "no": "No, my exam isn’t in two weeks."
+  },
+  {
+    "id": 946,
+    "question": "946. Will Tom be here in half an hour?",
+    "yes": "Yes, Tom will be here in half an hour.",
+    "no": "No, Tom won’t be here in half an hour."
+  },
+  {
+    "id": 947,
+    "question": "947. Did you stay in bed until 10:00?",
+    "yes": "Yes, I stayed in bed until 10:00.",
+    "no": "No, I didn’t stay in bed until 10:00."
+  },
+  {
+    "id": 948,
+    "question": "948. Have we known each other for 10 years?",
+    "yes": "Yes, we have known each other for 10 years.",
+    "no": "No, we haven’t known each other for 10 years."
+  },
+  {
+    "id": 949,
+    "question": "949. Was everybody nervous before the test?",
+    "yes": "Yes, everybody was nervous before the test.",
+    "no": "No, everybody wasn’t nervous before the test."
+  },
+  {
+    "id": 950,
+    "question": "950. Did we speak while we were eating?",
+    "yes": "Yes, we spoke while we were eating.",
+    "no": "No, we didn’t speak while we were eating."
+  },
+  {
+    "id": 951,
+    "question": "951. Did you knock over a glass and break it?",
+    "yes": "Yes, I knocked over a glass and broke it.",
+    "no": "No, I didn’t knock over a glass and break it."
+  },
+  {
+    "id": 952,
+    "question": "952. What does this word mean? Here’s a\ndictionary. You can look it up.",
+    "yes": "Ok, I will look it up. This word means feeling happy.",
+    "no": ""
+  },
+  {
+    "id": 953,
+    "question": "953. Can I throw them away?",
+    "yes": "Yes, you can throw them away.",
+    "no": "No, please don’t throw them away."
+  },
+  {
+    "id": 954,
+    "question": "954. Did you try on a pair of shoes at the store?",
+    "yes": "Yes, I tried on a pair of shoes at the store.",
+    "no": "No, I didn’t try on a pair of shoes at the store."
+  },
+  {
+    "id": 955,
+    "question": "955. I visited a school last week. Who\nshowed you around the school?",
+    "yes": "One of the teachers showed me around.",
+    "no": ""
+  },
+  {
+    "id": 956,
+    "question": "956. Did they tear a lot of houses down when they built the new road?",
+    "yes": "Yes, they tore a lot of houses down when they built the new road.",
+    "no": "No, they didn’t tear a lot of houses down when they built the new road."
+  },
+  {
+    "id": 957,
+    "question": "957. Your new lamp doesn’t work. Are you going to take it back to the store?",
+    "yes": "Yes, I’m going to take it back to the store.",
+    "no": "No, I’m not going to take it back to the store."
+  },
+  {
+    "id": 958,
+    "question": "958. How long do I have to wait?",
+    "yes": "Hold on a minute. I’m not ready yet.",
+    "no": ""
+  },
+  {
+    "id": 959,
+    "question": "959. Did the train slow down and finally stop?",
+    "yes": "Yes, the train slowed down and finally stopped. No, the train didn’t slow down and finally stop.",
+    "no": ""
+  },
+  {
+    "id": 960,
+    "question": "960. Are you always nervous when the plane takes off?",
+    "yes": "Yes, I’m always nervous when the plane takes off.",
+    "no": "No, I’m usually not nervous when the plane takes off."
+  },
+  {
+    "id": 961,
+    "question": "961. Do they get along very well?",
+    "yes": "Yes, they get along very well.",
+    "no": "No, they don’t get along very well."
+  },
+  {
+    "id": 962,
+    "question": "962. It’s difficult to hear you. Can you speak\nup a little?",
+    "yes": "Yes, I can speak up a little.",
+    "no": "No, I can’t speak up a little."
+  },
+  {
+    "id": 963,
+    "question": "963. Has the car broken down many times?",
+    "yes": "Yes, the car has broken down many times.",
+    "no": "No, the car hasn’t broken down many times."
+  },
+  {
+    "id": 964,
+    "question": "964. When babies try to walk, do they\nsometimes fall down?",
+    "yes": "Yes, they sometimes fall down.",
+    "no": "No, they don’t fall down."
+  },
+  {
+    "id": 965,
+    "question": "965. Does he still work out at the gym?",
+    "yes": "Yes, he still works out at the gym.",
+    "no": "No, he doesn’t work out at the gym anymore."
+  },
+  {
+    "id": 966,
+    "question": "966. I heard you tried to find a job. Did you\ngive up?",
+    "yes": "Yes, I gave up.",
+    "no": "No, I didn’t give up."
+  },
+  {
+    "id": 967,
+    "question": "967. Are you coming back on the twenty-\nfourth?",
+    "yes": "Yes, I’m coming back on the twenty-fourth.",
+    "no": "No, I’m not coming back on the twenty-fourth."
+  },
+  {
+    "id": 968,
+    "question": "968. We don’t have a key to the house. Can\nwe get in?",
+    "yes": "Yes, we can get in.",
+    "no": "No, we can’t get in."
+  },
+  {
+    "id": 969,
+    "question": "969. I can’t see the movie screen. Would you\nplease move over?",
+    "yes": "Sure, I’ll move over.",
+    "no": ""
+  },
+  {
+    "id": 970,
+    "question": "970. Are you going to lie down on the sofa?",
+    "yes": "Yes, I’m going to lie down on the sofa.",
+    "no": "No, I’m not going to lie down on the sofa."
+  },
+  {
+    "id": 971,
+    "question": "971. Are you going out to do some shopping now?",
+    "yes": "Yes, I’m going out to do some shopping now.",
+    "no": "No, I’m not going out to do any shopping now."
+  },
+  {
+    "id": 972,
+    "question": "972. Did she turn around to see what it was?",
+    "yes": "Yes, she turned around to see what it was.",
+    "no": "No, she didn’t turn around to see what it was."
+  },
+  {
+    "id": 973,
+    "question": "973. There was a free seat. Did she sit down?",
+    "yes": "Yes, she sat down.",
+    "no": "No, she didn’t sit down."
+  },
+  {
+    "id": 974,
+    "question": "974. Did she get on her bike and ride away?",
+    "yes": "Yes, she got on her bike and rode away.",
+    "no": "No, she didn’t get on her bike and ride away."
+  },
+  {
+    "id": 975,
+    "question": "975. When are you going away?",
+    "yes": "I’m going away right now.",
+    "no": ""
+  },
+  {
+    "id": 976,
+    "question": "976. That music is very loud. Can you turn it\ndown?",
+    "yes": "Yes, I can turn it down.",
+    "no": "No, I can’t turn it down."
+  },
+  {
+    "id": 977,
+    "question": "977. Did you go to the window and look\nout?",
+    "yes": "Yes, I went to the window and looked out.",
+    "no": "No, I didn’t go to the window and look out."
+  },
+  {
+    "id": 978,
+    "question": "978. Did she take her glasses off?",
+    "yes": "Yes, she took her glasses off.",
+    "no": "No, she didn’t take her glasses off."
+  },
+  {
+    "id": 979,
+    "question": "979. When you finished working on the\ncomputer, did you turn it off?",
+    "yes": "Yes, I turned it off.",
+    "no": "No, I didn’t turn it off."
+  },
+  {
+    "id": 980,
+    "question": "980. Please put your cigarette out.",
+    "yes": "Ok, I’ll put my cigarette out.",
+    "no": ""
+  },
+  {
+    "id": 981,
+    "question": "981. What happened to the picture on the\nwall? Did it fall down?",
+    "yes": "Yes, it fell down.",
+    "no": "No, it didn’t fall down."
+  },
+  {
+    "id": 982,
+    "question": "982. When the car stopped, how many men\ngot out?",
+    "yes": "Two men got out.",
+    "no": ""
+  },
+  {
+    "id": 983,
+    "question": "983. You were very tired this morning. Did you get up early?",
+    "yes": "Yes, I got up early.",
+    "no": "No, I didn’t get up early."
+  },
+  {
+    "id": 984,
+    "question": "984. Will you be back at 5:00?",
+    "yes": "Yes, I’ll be back at 5:00.",
+    "no": "No, I won’t be back at 5:00."
+  },
+  {
+    "id": 985,
+    "question": "985. Did the fire alarm go off?",
+    "yes": "Yes, the fire alarm went off.",
+    "no": "No, the fire alarm didn’t go off."
+  },
+  {
+    "id": 986,
+    "question": "986. Is she looking at her watch?",
+    "yes": "Yes, she’s looking at her watch.",
+    "no": "No, she isn’t looking at her watch."
+  },
+  {
+    "id": 987,
+    "question": "987. Did you say thank you very much?",
+    "yes": "Yes, I said thank you very much for your help.",
+    "no": "No, I didn’t say thank you very much."
+  },
+  {
+    "id": 988,
+    "question": "988. Do you want to come with us?",
+    "yes": "It depends where you're going.",
+    "no": ""
+  },
+  {
+    "id": 989,
+    "question": "989. Are you going fishing this weekend?",
+    "yes": "It depends on the weather.",
+    "no": ""
+  },
+  {
+    "id": 990,
+    "question": "990. Did I forget to call my mother yesterday?",
+    "yes": "Yes, you forgot to call your mother yesterday.",
+    "no": "No, you didn’t forget to call your mother yesterday."
+  },
+  {
+    "id": 991,
+    "question": "991. Did we wait for Karen until 2:00?",
+    "yes": "Yes, we waited for Karen until 2:00.",
+    "no": "No, we didn’t wait for Karen until 2:00."
+  },
+  {
+    "id": 992,
+    "question": "992. Are you very good at sports?",
+    "yes": "Yes, I’m very good at sports.",
+    "no": "No, I’m not very good at sports."
+  },
+  {
+    "id": 993,
+    "question": "993. Did Tom leave without saying goodbye?",
+    "yes": "Yes, Tom left without saying goodbye.",
+    "no": "No, Tom didn’t leave without saying goodbye."
+  },
+  {
+    "id": 994,
+    "question": "994. Is she married to a soccer player?",
+    "yes": "Yes, she’s married to a soccer player.",
+    "no": "No, she isn’t married to a soccer player."
+  },
+  {
+    "id": 995,
+    "question": "995. Did you cut the paper with a pair of scissors?",
+    "yes": "Yes, I cut the paper with a pair of scissors.",
+    "no": "No, I didn’t cut the paper with a pair of scissors."
+  },
+  {
+    "id": 996,
+    "question": "996. Did the dog swim across the river?",
+    "yes": "Yes, the dog swam across the river.",
+    "no": "No, the dog didn’t swim across the river."
+  },
+  {
+    "id": 997,
+    "question": "997. Did a book fall off the shelf?",
+    "yes": "Yes, a book fell off the shelf.",
+    "no": "No, a book didn’t fall off the shelf."
+  },
+  {
+    "id": 998,
+    "question": "998. Is Kevin standing in back of Fred?",
+    "yes": "Yes, Kevin is standing in back of Fred.",
+    "no": "No, Kevin isn’t standing in back of Fred."
+  },
+  {
+    "id": 999,
+    "question": "999. Are his legs long enough?",
+    "yes": "Yes, his legs are long enough.",
+    "no": "No, his legs aren’t long enough."
+  },
+  {
+    "id": 1000,
+    "question": "1000. Is Sydney the largest city in Australia?",
+    "yes": "Yes, Sydney is the largest city in Australia.",
+    "no": "No, Sydney isn’t the largest city in Australia."
+  }
+]
