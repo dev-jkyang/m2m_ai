@@ -1,21 +1,18 @@
-import 'dart:async';
-import 'dart:convert';
+import 'package:m2m_version_2/repository/m2m_repository.dart';
+import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-import 'package:flutter/services.dart';
-import 'package:m2m_version_2/model/m2m_3card_model.dart';
+part 'm2m_repository_provider.g.dart';
 
-class M2m3CardRepository {
-
-  M2m3CardRepository();
-
-  Future<List<M2m3card>> getFetchDataWithRange(int start, int end) async {
-    final m2m3cardJsonStr = await rootBundle
-        .loadString('assets/m2m_data/m2m_1000_3card_with_id.json');
-    final response = jsonDecode(m2m3cardJsonStr);
-    final m2m3cardList = [for (final q in response) M2m3card.fromJson(q)];
-
-    final rangeList = m2m3cardList.getRange(start, end);
-
-    return rangeList.toList();
-  }
+@riverpod
+M2m3CardRepository m2m3CardRepository(
+  M2m3CardRepositoryRef ref, {
+  required int start,
+  required int end,
+  required bool isRandom,
+}) {
+  return M2m3CardRepository(
+    start: start,
+    end: end,
+    isRandom: isRandom,
+  );
 }
